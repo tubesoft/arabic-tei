@@ -11,6 +11,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/arabic-tei/',
   plugins: [
     VueRouter(),
     Vue({
@@ -74,5 +75,4 @@ export default defineConfig({
       },
     },
   },
-  base: '/<REPO>/'
 })
