@@ -4,6 +4,8 @@ import Vue from '@vitejs/plugin-vue'
 import Vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 import Fonts from 'unplugin-fonts/vite'
 import VueRouter from 'unplugin-vue-router/vite'
+import fs from 'node:fs'
+import path from 'node:path'
 
 // Utilities
 import { defineConfig } from 'vite'
@@ -21,6 +23,14 @@ export default defineConfig({
     Vue({
       template: { transformAssetUrls },
     }),
+    {
+      name: 'copy-index-to-404',
+      closeBundle () {
+        const src = path.resolve(__dirname, 'docs/index.html')
+        const dest = path.resolve(__dirname, 'docs/404.html')
+        fs.copyFileSync(src, dest)
+      }
+    },
     // https://github.com/vuetifyjs/vuetify-loader/tree/master/packages/vite-plugin#readme
     Vuetify({
       autoImport: true,

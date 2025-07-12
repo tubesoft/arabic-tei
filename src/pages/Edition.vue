@@ -58,8 +58,8 @@
   const router = useRouter()
   onMounted (() => {
     const route = useRoute()
-    if (route.query.xsl && route.query.xml) {
-      pushURL(route.query.xsl, route.query.xml)
+    if (route.params.xsl && route.params.xml) {
+      pushURL(route.params.xsl, route.params.xml)
       mini.value = true
     }
   })
@@ -126,8 +126,8 @@
 
   function pushURL (xsl, xml) {
     router.push({
-      path: 'edition',
-      query: {
+      name: 'edition-rendition',
+      params: {
         xsl: xsl,
         xml: xml,
       }
