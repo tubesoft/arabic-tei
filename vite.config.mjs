@@ -11,9 +11,10 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/arabic-tei/',
   build: {
-    outDir: 'docs'
+    outDir: 'docs',
+    emptyOutDir: true,
   },
   plugins: [
     VueRouter(),

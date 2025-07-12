@@ -1,4 +1,4 @@
-import{c as i,w as e,h,s,o as a,a as t,V as l,b as c,d as m,i as f,f as u,F as b,r as w,j as y,k as g,e as v,t as A,l as x,m as I,n}from"./index-C36UFCKB.js";import{_ as T}from"./_plugin-vue_export-helper-DlAUqK2U.js";const k={data:function(){return{contents:[{header:"About This Website",content:s(n({template:`
+import{e as i,f as e,d as t,A as l,B as h,C as c,E as m,c as f,t as u,F as b,D as w,s,j as a,G as y,H as g,x as v,y as A,I as x,g as I,h as n}from"./index-cNpdaeBW.js";import{_ as T}from"./_plugin-vue_export-helper-DlAUqK2U.js";const k={data:function(){return{contents:[{header:"About This Website",content:s(n({template:`
               <p class="text-h5">Web App Description</p>
               <p>
                 This webapp offers digital editions of Arabic alchemical literature. TEI P5 is used for the encoding.
@@ -57,4 +57,4 @@ import{c as i,w as e,h,s,o as a,a as t,V as l,b as c,d as m,i as f,f as u,F as b
                 <br />
                 <p class="text-h5">Others</p>
                 <p v-for="item in others" v-html="item"></p>
-              `}))}]}}};function _(p,r,P,S,E,V){return a(),i(h,null,{default:e(()=>[t(l,{class:"text-center"},{default:e(()=>[t(c,{class:"mb-4"},{default:e(()=>r[0]||(r[0]=[m("p",{class:"text-h2"},"About",-1)])),_:1,__:[0]})]),_:1}),t(l,{class:"text-center"},{default:e(()=>[t(c,{class:"mb-4"},{default:e(()=>[t(f,{multiple:""},{default:e(()=>[(a(!0),u(b,null,w(p.contents,(o,d)=>(a(),i(y,{key:d},{default:e(()=>[t(g,{class:"text-h5"},{default:e(()=>[v(A(o.header),1)]),_:2},1024),t(x,null,{default:e(()=>[(a(),i(I(o.content)))]),_:2},1024)]),_:2},1024))),128))]),_:1})]),_:1})]),_:1})]),_:1})}const M=T(k,[["render",_]]);export{M as default};
+              `}))}]}}};function _(p,r,P,S,E,B){return a(),i(w,null,{default:e(()=>[t(c,{class:"text-center"},{default:e(()=>[t(l,{class:"mb-4"},{default:e(()=>r[0]||(r[0]=[h("p",{class:"text-h2"},"About",-1)])),_:1,__:[0]})]),_:1}),t(c,{class:"text-center"},{default:e(()=>[t(l,{class:"mb-4"},{default:e(()=>[t(m,{multiple:""},{default:e(()=>[(a(!0),f(b,null,u(p.contents,(o,d)=>(a(),i(y,{key:d},{default:e(()=>[t(g,{class:"text-h5"},{default:e(()=>[v(A(o.header),1)]),_:2},1024),t(x,null,{default:e(()=>[(a(),i(I(o.content)))]),_:2},1024)]),_:2},1024))),128))]),_:1})]),_:1})]),_:1})]),_:1})}const M=T(k,[["render",_]]);export{M as default};

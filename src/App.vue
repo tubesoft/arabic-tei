@@ -96,11 +96,11 @@
     theme.global.name.value = themeName
     try {
       let num = 1
-      const responseXSL = await fetch('src/assets/xslt/make-title-list.sef.json')
+      const responseXSL = await fetch(`${import.meta.env.BASE_URL}xslt/make-title-list.sef.json`)
       const xslStr = await responseXSL.text()
 
       while (true) {
-        const responseXML = await fetch('src/assets/tei/AMI' + ('00000' + num).slice(-5) + '.xml')
+        const responseXML = await fetch(`${import.meta.env.BASE_URL}tei/AMI${('00000' + num).slice(-5)}.xml`)
         const xmlStr = await responseXML.text()
         num++
         try {

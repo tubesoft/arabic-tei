@@ -35,7 +35,7 @@
           :disabled="mini"
           link
           prepend-icon="mdi-book-open-variant"
-          @click="converting(item.xml,item.xsl)"
+          @click="pushURL(item.xsl, item.xml)"
           @click.stop="mini = !mini"
         >
           <v-list-item-title>{{ item.title }}</v-list-item-title>
@@ -51,9 +51,18 @@
 </template>
 
 <script setup>
-  import { defineComponent, ref, shallowRef, watch } from 'vue'
+  import { defineComponent, onMounted, ref, shallowRef, watch } from 'vue'
+  import { useRoute, useRouter } from 'vue-router'
   import { useTheme } from 'vuetify'
   import * as components from 'vuetify/components'
+  const router = useRouter()
+  onMounted (() => {
+    const route = useRoute()
+    if (route.params.xsl && route.params.xml) {
+      pushURL(route.params.xsl, route.params.xml)
+      mini.value = true
+    }
+  })
   const props = defineProps({
     edList: Array,
   })
@@ -72,9 +81,9 @@
   const mini = ref(false)
   async function getConvertedText () {
     try {
-      const responseXML = await fetch('src/assets/tei/' + xml + '.xml')
+      const responseXML = await fetch(`${import.meta.env.BASE_URL}tei/${xml}.xml`)
       const xmlStr = await responseXML.text()
-      const responseXSL = await fetch('src/assets/xslt/' + xsl + '.sef.json')
+      const responseXSL = await fetch(`${import.meta.env.BASE_URL}xslt/${xsl}.sef.json`)
       const xslStr = await responseXSL.text()
 
       try {
@@ -109,12 +118,22 @@
     }
   }
 
-  function converting (xmlin, xslin) {
+  function converting (xslin, xmlin) {
     xml = xmlin
     xsl = xslin
     getConvertedText()
   }
 
+  function pushURL (xsl, xml) {
+    router.push({
+      name: 'edition-rendition',
+      params: {
+        xsl: xsl,
+        xml: xml,
+      }
+    })
+    converting(xsl, xml)
+  }
   function createDynamicComponent (templateStr) {
     return defineComponent({
       components: {
