@@ -1,4 +1,4 @@
-import{e as i,f as e,d as t,A as l,B as h,C as c,E as m,c as f,t as u,F as b,D as w,s,j as a,G as y,H as g,x as v,y as A,I as x,g as I,h as n}from"./index-cNpdaeBW.js";import{_ as T}from"./_plugin-vue_export-helper-DlAUqK2U.js";const k={data:function(){return{contents:[{header:"About This Website",content:s(n({template:`
+import{e as i,f as e,d as t,A as l,B as h,C as c,E as m,c as f,t as u,F as b,D as w,s,j as a,G as y,H as g,x as v,y as A,I as x,g as I,h as n}from"./index-Dnx9xdca.js";import{_ as T}from"./_plugin-vue_export-helper-DlAUqK2U.js";const k={data:function(){return{contents:[{header:"About This Website",content:s(n({template:`
               <p class="text-h5">Web App Description</p>
               <p>
                 This webapp offers digital editions of Arabic alchemical literature. TEI P5 is used for the encoding.
