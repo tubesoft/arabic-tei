@@ -12,16 +12,6 @@ const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes,
 })
-router.addRoute({
-  path: '/edition/:xsl/:xml',
-  name: 'edition-rendition',
-  component: () => import('/src/pages/Edition.vue')
-})
-router.addRoute({
-  path: '/edition',
-  name: 'edition',
-  component: () => import('/src/pages/Edition.vue')
-})
 // Workaround for https://github.com/vitejs/vite/issues/11804
 router.onError((err, to) => {
   if (err?.message?.includes?.('Failed to fetch dynamically imported module')) {
