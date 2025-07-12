@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="AMI00001">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                <title>Kitāb ʿilal al-maʿādin</title>
+                <idno>AMI00002</idno>
+            </title>
+            <author>
+                Abū Bakr Muḥammad ibn Zakariyyāʾ
+                <surname>al-Rāzī</surname>
+            </author>
+            <respStmt><name xml:id="tainoue">Takatomo Inoue</name><resp>Editor</resp></respStmt>
+        </titleStmt>
+        <publicationStmt><publisher>Takatomo Inoue</publisher><pubPlace>Bloomington,IN</pubPlace><date>2022</date>
+            <availability status="restricted"><p>The texts and images available in it are provided for non-commercial, 
+                personal, or research use only and are protected under the copyright laws of the United States and 
+                the Universal Copyright Convention. All other use, including but not limited to commercial or 
+                scholarly reproductions, redistribution, publication or transmission, whether by electronic means or 
+                otherwise, without prior written permission of the copyright holder is strictly prohibited. 
+                Copyright to this project is held by Takatomo Inoue</p> 
+            </availability>
+        </publicationStmt>
+        <notesStmt>
+            <note type="translation_status" anchored="true">
+                <p>A translation of this document is (or will be) available in the same project webpage.</p>
+            </note>
+        </notesStmt>
+        <sourceDesc>
+            <msDesc xml:id="B">
+                <msIdentifier>
+                    <country>The United Kingdom</country>
+                    <settlement>London</settlement>
+                    <institution/>
+                    <repository>British Library</repository>
+                    <collection>OR</collection>
+                    <idno>13006/7</idno>
+                </msIdentifier>
+                <msPart>
+                    <msIdentifier>
+                        <idno>ff. 77a-78b</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem defective="unknown">
+                            <author xml:lang="ar">محمد ابن زكريا الرازي</author>
+                            <author xml:lang="lat-ar">
+                                Abū Bakr Muḥammad ibn Zakariyyāʾ
+                                <surname>al-Rāzī</surname>
+                            </author>
+                            <title xml:lang="ar">كتاب علل المعادن</title>
+                            <title xml:lang="lat-ar">Kitāb ʿilal al-maʿādin</title>
+                            <note type="description" anchored="true">TBD</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        TBD
+                                    </p>
+                                </support>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="copyist" xml:id="copyist"></handNote>
+                            <handNote scribe="unknown" xml:id="unknown"></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>TBD</p>
+                        </origin>
+                        <provenance>
+                            <p></p>
+                        </provenance>
+                        <acquisition>
+                            <p></p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <surrogates>
+                            <p></p>
+                        </surrogates>
+                    </additional>
+                </msPart>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <body>
+        <!-- Arabic Text -->
+        <!-- TODO <term> substance, instrument, process, decknamen, Islamic, medical, philosophical -->
+        <!-- TODO deal with preface before "ma ba'da" -->
+        <div xml:lang="ar">
+            <milestone unit="folio" n="B-77a-line1" xml:id="B-77a-ar"/>
+            <p n="beginning">
+                هذه فصول في
+                <choice><orig>فوايد</orig><reg>فوائد</reg></choice>
+                منتخبة
+                <lb n="B-77a-01"/>
+                
+                <choice><orig>فى</orig><reg>في</reg></choice>
+                <bibl><note type="biblio" xml:id="note-0001">This is al-Rāzī's main alchemical project.</note>
+                الكتب الاثنى عشرة
+                </bibl>
+                <persName>
+                    <addName type="honorific">للحكيم</addName>
+                    الفاضل محمد بن
+                    <choice><orig>زكريا</orig><reg>زكرياء</reg></choice>
+                    الرازي
+                    <addName type="honorific">رحمة الله</addName>
+                </persName>
+                <lb n="B-77a-02"/>
+                
+                قال في الكتاب الثاني وهو
+                <bibl><note type="biblio" xml:id="note-0002">This is the second book of 12 Books</note>
+                    كتاب علل المعادن
+                </bibl>
+                <lb n="B-77a-03" break="no"/>
+                
+                <unclear reason="faded-overline" xml:id="note-0003">
+                    <hi rend="overline">
+                        <term type="substance">الملح</term>
+                    </hi>
+                </unclear>
+                يتولد من احتراق
+                <lb n="B-77a-03"/>
+                
+                الشمس وسيلان
+                <choice><orig>المآء</orig><reg>الماء</reg></choice>
+                والدليل على ذلك
+                <choice><orig>انّ</orig><reg>أنّ</reg></choice>
+                كلّ
+                <choice><orig>شىء</orig><reg>شيء</reg></choice>
+                احرقتَه ثم غسَلْتَه 
+                <choice><orig>بالمآء</orig><reg>بالماء</reg></choice>
+                ثم
+                <choice><orig>اجمدته</orig><reg>أجمدته</reg></choice>
+                <lb n="B-77a-04"/>
+                
+                <term type="process">اِنعقد</term>
+                فيه 
+                <term type="substance">ملح</term>
+                وكلَ شيء
+                <choice><orig>احرقته</orig><reg>أحرقته</reg></choice>
+                متولّد فيه ملوحةٌ ولو اردت ان
+                <choice><orig>تاخذ</orig><reg>تأخذ</reg></choice>
+                من 
+                <term type="substance">النورة</term>
+                <term type="substance">ملحاً</term>
+                <lb n="B-77a-05"/>
+                
+                <choice><orig>امكن</orig><reg>أمكن</reg></choice>
+                ذلك
+                <choice><orig>بان</orig><reg>بأن</reg></choice>
+                تصبّ عليها من
+                <choice><orig>المآء</orig><reg>الماء</reg></choice>
+                حتى يغمرها ثم تميطه عنها ثم تجعل
+                <choice><orig>المآء</orig><reg>الماء</reg></choice>
+                <choice><orig>فى</orig><reg>في</reg></choice>
+                <term type="instrument">كيزان</term>
+                <lb n="B-77a-06"/>
+                
+                <choice><orig>فى</orig><reg>في</reg></choice>
+                الشمس
+                <choice><orig>فان</orig><reg>فأن</reg></choice>
+                <term type="substance">الملح</term>
+                يبرد عنها ويكون من 
+                <term type="substance">الرماد</term>
+                <term type="substance">ملح</term>
+                وهو
+                <unclear reason="ink-stain" xml:id="note-0004">له صفاف متطير</unclear>
+                على قدر تغير
+                <lb n="B-77a-07"/>
+                
+                <unclear reason="ink-stain" xml:id="note-0005">البقاع</unclear>
+                المتكونة فيها والمرُّ منه
+                <choice><orig>اشد</orig><reg>أشد</reg></choice>
+                حرارة 
+                <term type="substance">الزاج</term>
+                هو حجر مركّبٌ من 
+                <term type="substance">طين</term>
+                وجوهر
+                <lb n="B-77a-08"/>
+                
+                <term type="substance">وكبريت</term>
+                فجوهره
+                <term type="substance">زيبق ميت</term>
+                <term type="substance">وكبريته</term>
+                <term type="substance">كبريت</term>
+                غليظ بمخالطة
+                <choice><orig>الارضية</orig><reg>الأرضية</reg></choice>
+                له وجوهره 
+                <term type="substance">مركشيشا</term>
+                <lb n="B-77a-09"/>
+                
+                <unclear reason="faded-overline" xml:id="note-0006">
+                    <hi rend="overline">
+                        <term type="substance">الشاذنة</term>
+                    </hi>
+                </unclear>
+                حجر فيه 
+                <term type="substance">كتريت</term>
+                قليل حمّره
+                <term type="process">الطبخ</term>
+                <unclear reason="faded-overline" xml:id="note-0007">
+                    <hi rend="overline">
+                        <term type="substance">
+                            الماس
+                        </term>
+                    </hi>
+                </unclear><note type="editorial-combined" next="#note-0007">This is diamond</note>
+                يكون من بخار ناري 
+                <term type="process">ممازج</term>
+                <lb n="B-77a-10"/>
+                
+                <choice><orig>للارضية</orig><reg>للأرضية</reg></choice>
+                الكثيفة الزجاجيّة
+                <choice xml:id="note-0008"><sic>الشديده</sic><corr>الشديدة</corr></choice>
+                الصرّامة ولذلك صار يجل 
+                <term type="substance">الياقوت</term>
+                <lb n="B-77a-11"/>
+                
+                <unclear reason="illegible" xml:id="note-0009">البتة</unclear>
+                قد
+                <unclear reason="ink-stain" xml:id="note-0010">اجتمج</unclear>
+                في اليبسُ الصرامة حرّاً نافذاً
+                <hi rend="overline">
+                    <term type="substance">الطلق</term>
+                </hi>
+                <term type="substance">جبسينٌ</term>
+                متصفّح وغير متصفّح
+                <lb n="B-77a-12"/>
+                
+                <term type="substance">والجبسين</term>
+                من حجارة الجسّ 
+                <unclear reason="faded-overline" xml:id="note-0011">
+                    <hi rend="overline">
+                        <term type="substance">الزيبق</term>
+                    </hi>
+                </unclear>
+                باردٌ
+                <unclear reason="ink-stain" xml:id="note-0012">رطبٌ</unclear>
+                <choice><orig>مائىٌّ</orig><reg>مائيٌّ</reg></choice>
+                غليظ فيه 
+                <unclear reason="ink-stain" xml:id="note-0013">حدّةٌ</unclear>
+                وقبضٌ
+                <lb n="B-77a-13"/>
+                
+                <unclear reason="ink-stain" xml:id="note-0014">يذكر على</unclear>
+                ذلك جمعُه 
+                <choice synch="#note-0015">
+                    <orig>للاجساد</orig><reg>للأجساد</reg>
+                </choice><note type="editorial-combined" xml:id="note-0015">
+                    In K. Asrar, al-Razi recognizes gold, silver, tin, lead, iron, copper, and kharsini.
+                         </note>
+                <choice><orig>وانه</orig><reg>وأنه</reg></choice>
+                يفلح 
+                <choice><orig>واذا</orig><reg>وإذا</reg></choice>
+                <term type="process">صعد</term>
+                استحال حاراً يابساً حرّيفاً 
+                <term type="process">محلّلاً</term>
+                <note place="left margin">
+                    <seg hand="#unknown">
+                        <unclear reason="illegible" xml:id="note-0016">والله</unclear>
+                        <lb n="B-77a-14-mg-1"/>
+                        <term type="substance">الكبريت</term>
+                        يزيل
+                        <term type="medical">البهق</term>
+                        <term type="medical">والبرص</term>
+                        <choice xml:id="note-0017"><sic>طلاعـ</sic><corr>طلاعا</corr></choice>
+                        <lb n="B-77a-14-mg-2"/>
+                    </seg>
+                </note>
+                <lb n="B-77a-14"/>
+                
+                مقطعاً والقليل
+                <unclear reason="ink-stain" xml:id="note-0018">عن ذلك</unclear>
+                ذهابه
+                <term type="medical">بالجرب</term>
+                <term type="medical">والحِكّة</term>
+                <choice><orig>ان</orig><reg>إن</reg></choice><!--TODO: Not sure-->
+                <choice xml:id="note-0019">
+                    <sic>خلي</sic>
+                    <corr resp="#copyist" cert="low" corresp="#B-77a-corr-in-left-margin-01"/>
+                </choice>
+                به
+                <w prev="#B-77a-corr-below-the-line-01">و</w>
+                <choice xml:id="note-0020">
+                    <sic>ويفرج</sic>
+                    <corr resp="#copyist" cert="unknown" corresp="#B-77a-corr-below-the-line-01"/>
+                </choice>
+                <note place="below">
+                    <seg hand="#copyist">                        
+                        <seg type="another-source-correction" 
+                            corresp="#note-0020" 
+                            xml:id="B-77a-corr-below-the-line-01">
+                            <w style="attach-f">يقرح</w>
+                        </seg>
+                        <seg type="editorial-symbol" subtype="reference-to-another-copy">ىخ</seg>
+                        <lb n="B-77a-15-mg-2"/>
+                    </seg>
+                </note>
+                الجلد
+                <hi rend="overline">
+                    <term type="substance">الكبريت</term>
+                </hi>
+                <note place="left margin">
+                    <seg hand="#copyist">
+                        <seg type="editorial-symbol">∴</seg>
+                        <lb n="B-77a-15-mg-1"/>
+                        
+                        <seg type="presumed-correction" 
+                            corresp="#note-0019" 
+                            xml:id="B-77a-corr-in-left-margin-01">طلى</seg>
+                        <seg type="editorial-symbol" subtype="presumption">ظ</seg>
+                        / 
+                        <lb n="B-77a-15-mg-2"/>
+                    </seg>
+                </note>
+                <lb n="B-77a-15"/>
+                
+                حارٌّ لطيفٌ فيه نفسٌ وحدّةٌ واحتراقٌ ويدلك على ذلك فعله في قلعه
+                <term type="medical">البهقَ</term>
+                <term type="medical">والبرصَ</term>
+                <lb n="B-77a-16"/>
+                
+                <choice><orig>بادهان</orig><reg>بأدهان</reg></choice>
+                الـ
+                <gap reason="ink-stain" quantity="1" xml:id="note-0021"/>
+                <choice><orig>اذهاب</orig><reg>إذهاب</reg></choice>
+                <term type="medical">الجرب</term>
+                <term type="medical">
+                    <choice><orig>والقوبا</orig><reg>والقوباء</reg></choice>
+                </term>
+                وذلك لحرّه ولطفه ويبيسه ونشفه في
+                <unclear reason="faded" xml:id="note-0022">ذكر</unclear>
+                <gap reason="faded" quantity="1" xml:id="note-0023"/>
+                <lb n="B-77a-16"/>
+                
+                متـ
+                <gap reason="ink-stain" atLeast="1" atMost="2" xml:id="note-0024"/>
+                <unclear reason="faded" xml:id="note-0025">ماء باحجار</unclear>
+                المتولد منها
+                <term type="substance">الزنجارُ</term>
+                <term type="substance">والزنجفرُ</term>
+                <term type="substance">والمرداسنجُ</term>
+                <term type="substance">
+                    <choice><orig>والاسرنجُ</orig><reg>والإسرنجُ</reg></choice>
+                </term>
+                <lb n="B-77a-17"/>
+                
+                <term type="substance">
+                    <unclear reason="ink-stain" xml:id="note-0026">
+                        وإسفيداج
+                    </unclear>
+                    الرصاصُ
+                </term>                
+                <term type="substance">وزعفران الحديدُ</term>
+                <term type="substance">والروسحتجُ</term>
+                <term type="substance">والدوصُ</term>
+                <term type="substance">والشكُ</term> 
+                <term type="substance">والتوتياء</term>
+                <lb n="B-77a-18"/>
+                
+            <milestone unit="folio" n="B-77b" xml:id="B-77b-ar"/>
+                
+                <hi rend="overline">
+                    <term type="substance">فالزنجار</term>
+                </hi>
+                يتخذ من
+                <term type="substance">النحاس</term>
+                تُجعل
+                <term type="instrument">
+                    <choice><orig>صفايحُه</orig><reg>صفائحُه</reg></choice>
+                </term>
+                في
+                <term type="substance">ثفل الخل</term>
+                <term type="substance">والملح</term>
+                فيصير
+                <choice><orig>اخضر</orig><reg>أخضر</reg></choice>
+                فيُنْحَتُ عنه ويُعاد
+                <lb n="B-77b-01"/>
+                
+                حتى يصيرَ 
+                <term type="substance">زنجاراً</term>
+                كلّهُ
+                <unclear reason="faded-overline" xml:id="note-0027">
+                    <hi rend="overline">
+                        <term type="substance">والزنجفر</term>
+                    </hi>
+                </unclear>
+                يتخذ من
+                <term type="substance">الزيبق</term>
+                <term type="substance">والكبريت</term>
+                يجمعان في
+                <term type="instrument">قوارير</term>
+                و يوقد
+                <lb n="B-77b-02"/>
+                
+                عليه فيصير زنجفراً
+                <unclear reason="ink-stain" xml:id="note-0028">
+                    والنار قدراً تخرجها التجربة مرةً بعد الخرس والوزن تاخذ الزيبق
+                </unclear>
+                <lb n="B-77b-03"/>
+                
+                واحداً والكبيرتَ واحداً
+                <hi rend="overline">
+                    <term type="substance">والاسرنج</term>
+                </hi>
+                <term type="substance">
+                    <choice><orig>اسرب</orig><reg>أسرب</reg></choice>
+                    
+                </term>
+                يحرق و يشدّ عليه النار حتى يحمرّ 
+                <hi rend="overline">
+                    <term type="substance">والمرداسنج</term>
+                </hi>
+                <lb n="B-77b-04"/>
+                
+                <term type="substance">
+                    <choice><orig>اسرب</orig><reg>أسرب</reg></choice>
+                </term>
+                يذاب في حفيرة و يطعم آجرّا مدقوقا ورماداً ويشد عليه النفخ حتى يجمدَ 
+                <term type="substance">مرداسنج</term>
+                <lb n="B-77b-05"/>
+                
+                <hi rend="overline">
+                    والاقليميات
+                </hi>
+                خبث كل جسد يخلص
+                <hi rend="overline">
+                    <term type="substance">
+                        <choice><orig>اسفيداج</orig><reg>إسفيداج</reg></choice>
+                        الرصاص
+                    </term>
+                </hi>
+                يتخذ من
+                <choice><orig>صفايح</orig><reg>صفائح</reg></choice>
+                <term type="substance">الرصاص</term>
+                <lb n="B-77b-06"/>
+                
+                <unclear reason="illegible" xml:id="note-0029">فيه الخل</unclear>
+                نحو 
+                <term type="substance">الزنجار</term>
+                
+                <unclear reason="faded-overline" xml:id="note-0030">
+                    <hi rend="overline">
+                        وكذلك
+                        <term type="substance">زعفران الحديد</term>
+                    </hi>
+                </unclear>
+                <hi rend="overline">
+                    <term type="substance">والدوص</term>
+                </hi>
+                <choice><orig>مآء</orig><reg>ماء</reg></choice>
+                <term type="substance">الحديد</term>
+                <hi rend="overline">
+                    <term type="substance">والشك</term>
+                </hi>
+                نوعان
+                <lb n="B-77b-07"/>
+                
+                <choice><orig>اصفر</orig><reg>أصفر</reg></choice>
+                <choice><orig>وابيض</orig><reg>وأبيض</reg></choice>
+                وهما دخان
+                <term type="substance">الفضة</term>
+                <hi rend="overline">
+                    وكذلك
+                    <term type="substance">التوتيا</term>
+                </hi>
+                دخان
+                <term type="substance">النحاس</term>
+                ودخان
+                <term type="substance">الكحل</term>
+                وهو معمول
+                <lb n="B-77b-08"/>
+                
+                من
+                <term type="substance">
+                    <choice><orig>الاسرب</orig><reg>الأسرب</reg></choice>
+                </term>
+                والدليل على ذلك انه فعله قريب من فعل
+                <term type="substance">المرداسنج</term>
+                ومنه ضروب فمنه
+                <lb n="B-77b-09"/>
+                
+                <note place="right margin" corresp="#note-0032">
+                    <seg hand="#copyist">
+                        <seg type="editorial-symbol">∴</seg>
+                        <lb n="B-77b-10-mg-1"/>
+                        <choice xml:id="note-0031">
+                            <sic>ىاهية</sic>
+                            <corr>ناهية</corr>
+                        </choice>
+                        <lb n="B-77b-10-mg-2"/>
+                         الملغمة البرانية
+                        <lb n="B-77b-10-mg-3"/>
+                    </seg>
+                </note>
+                <region style="nisba">خُوزي</region>
+                ومنه
+                <region style="nisba">كرماني</region>
+                ومحمودي
+                <region style="nisba">وهندي</region>
+                <region style="nisba">والهندي</region>
+                معمول
+                <add place="above" xml:id="note-0032"><!-- Memo: if corresp attr is there, insertion, it is regarded is insertion from the margin. -->
+                    <seg type="editorial-symbol">∴</seg>
+                </add>
+                في ذكر
+                <unclear reason="faded" xml:id="note-0033">الدار</unclear>
+                بعض
+                <lb n="B-77b-10"/>
+                
+                <unclear reason="faded" xml:id="note-0034">
+                    المعادن
+                    <choice><orig>والاجساد</orig><reg>والأجساد</reg></choice>
+                    بعضها من بعض 
+                </unclear>
+                <hi rend="overline">
+                    <term type="substance">الزيبق</term>
+                </hi>
+                يبيّض
+                <term type="substance">الذهب</term>
+                ويلزق به
+                <lb n="B-77b-11"/>
+                
+                يغوص فيه وفي ساير
+                <choice><orig>الاجساد</orig><reg>الأجساد</reg></choice>
+                حتى يبيّض داخلها وخارجها ويكسرها ويجعلها
+                <lb n="B-77b-12"/>
+                
+                <note place="below">
+                    <seg hand="#copyist">                        
+                        <seg type="insertion" 
+                            corresp="#note-0035" 
+                            xml:id="B-77b-corr-below-the-line-01">
+                            <choice><orig>اضافة</orig><reg>إضافة</reg></choice>
+                            <choice><orig>للاجساد</orig><reg>للأجساد</reg></choice>
+                            <choice><orig>اليه</orig><reg>إليه</reg></choice>
+                            بسبب
+                            <choice><orig>انه</orig><reg>أنه</reg></choice>
+                            هو
+                            <choice><orig>اصلها</orig><reg>أصلها</reg></choice>
+                            جميعا
+                            <choice xml:id="note-0036"><sic>ىه</sic><corr>به</corr></choice>
+                        </seg>
+                        /
+                    </seg>
+                </note>
+                بالسحق شبه العجين
+                <choice><orig>يسمّىٰ</orig><reg>يسمّى</reg></choice>
+                ذلك 
+                <term type="process">ملغمةً</term>
+                خلا
+                <term type="substance">الحديد</term>
+                <choice><orig>فانه</orig><reg>فأنه</reg></choice>
+                يعسر
+                <choice xml:id="note-0035">
+                    <sic>
+                        اضـ
+                        <gap reason="deleted" atLeast="1" atMost="2" xml:id="note-0037"/>
+                        به
+                    </sic>
+                    <corr resp="#copyist" cert="low" corresp="#B-77b-corr-below-the-line-01"/>
+                </choice>
+                ويجمع
+                <term type="substance">الفضة</term>
+                <lb n="B-77b-13"/>
+                
+                <term type="substance">والذهب</term>
+                <choice><orig>الى</orig><reg>إلى</reg></choice>
+                نفسه من حجاراته ثم يطير عنه وتحصل
+                
+                <hi rend="marked">
+                    <choice><orig>هى</orig><reg>هي</reg></choice>
+                    <metamark place="below-2">
+                        <seg type="editorial-symbol" subtype="corresponding-pronoun">٢</seg>
+                    </metamark>
+                </hi>
+                <term type="substance">الكبريت</term>
+                هو يحرق
+                <lb n="B-77b-14"/>
+                
+                <note place="right margin">
+                    <seg hand="#copyist">                        
+                        <seg type="another-source-correction" 
+                            corresp="#note-0038" 
+                            xml:id="B-77b-corr-in-right-margin-01">
+                            <choice style="attach-fb"><orig>اجمع</orig><reg>أجمع</reg></choice>
+                        </seg>
+                        <seg type="editorial-symbol" subtype="reference-to-another-copy">ىخ</seg>
+                        <lb n="B-77b-15-mg-1"/>
+                    </seg>
+                </note>
+                <choice><orig>الاجساد</orig><reg>الأجساد</reg></choice>
+                <hi rend="marked">
+                    <w prev="#B-77b-corr-in-right-margin-01">ب</w>
+                    <choice xml:id="note-0038">
+                        <sic>
+                            باسرها
+                        </sic>
+                        <corr resp="#copyist" cert="low" corresp="#B-77b-corr-in-right-margin-01"/>
+                    </choice>
+                    <w next="#B-77b-corr-in-right-margin-01">ها</w>
+                    <metamark place="above-8">
+                        <seg type="editorial-symbol" subtype="insertion">⋁</seg>
+                    </metamark>
+                </hi>
+                سوى
+                <term type="substance">الذهب</term>
+                ويفتّتها غير
+                <choice><orig>انّه</orig><reg>أنّه</reg></choice>
+                يحرق
+                <term type="substance">الفضةَ</term>
+                <choice><orig>طاووسيّاً</orig><reg>طاؤوسيّاً</reg></choice>
+                <lb n="B-77b-15"/>
+                
+                <note place="right margin">
+                    <seg hand="#copyist">
+                        فضته
+                        <lb n="B-77b-15-mg-1"/>
+                        <unclear reason="illegible" xml:id="note-0039">مرا</unclear>
+                        <lb n="B-77b-15-mg-2"/>
+                        <unclear reason="deleted" xml:id="note-0040">نحاس</unclear>
+                        <gap reason="deleted" quantity="1" xml:id="note-0041"/>
+                        <lb n="B-77b-15-mg-3"/>
+                        <gap reason="deleted" quantity="1" xml:id="note-0042"/>
+                        <lb n="B-77b-15-mg-4"/>
+                    </seg>
+                </note>
+                <choice><orig>الى</orig><reg>إلى</reg></choice>
+                السواد
+                <term type="substance">والنحاسَ</term>
+                <w prev="#B-77b-corr-above-the-line-01">كر</w>
+                <choice xml:id="note-0043">
+                    <sic>كرى</sic>
+                    <corr resp="#copyist" cert="unknown" corresp="#B-77b-corr-above-the-line-01"/>
+                </choice>
+                <note place="above">
+                    <seg hand="#copyist">                        
+                        <seg type="another-source-correction" 
+                            corresp="#note-0039" 
+                            xml:id="B-77b-corr-above-the-line-01">
+                            <w style="attach-f">يّاً</w>
+                        </seg>
+                        <lb n="B-77a-16-mg-1"/>
+                    </seg>
+                </note>
+                الى السواد
+                <term type="substance">والحديدَ</term>
+                <choice><orig>احمرَ</orig><reg>أحمرَ</reg></choice>
+                و يحمّر
+                <term type="substance">الزيبق</term>
+                ويجمده بريحه
+                <lb n="B-77b-16"/>
+                
+                وهو
+                <term type="substance">الزنجفر</term>
+                و يخلص
+                <term type="substance">الذهب</term>
+                من
+                <term type="substance">الفضة</term>
+                لانه يحرق
+                <term type="substance">الفضة</term>
+                ويترك
+                <term type="substance">الذهب</term>
+                <hi rend="overline">
+                    <term type="substance">النحاس</term>
+                </hi>
+                <lb n="B-77b-17"/>
+                
+                يخالط
+                <term type="substance">الذهب</term>
+                <hi rend="overline">
+                    <term type="substance">القلعى</term>
+                </hi>
+                يبيض
+                <term type="substance">النحاس</term>
+                ويفتته
+                <choice><orig>الّا</orig><reg>إلّا</reg></choice>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                قل منه والقليل
+                <choice><orig>ايْضا</orig><reg>أيْضا</reg></choice>
+                يتلبسه
+                <lb n="B-77b-18"/>
+                
+                ولا يفرقه
+                <choice><orig>ابداً</orig><reg>أبداً</reg></choice>
+                بعد مزاجه ويكون بينهما
+                <term type="unidentified">اسفيدروية</term>
+                ويجمد
+                <term type="substance">الزيبق</term>
+                بريحه
+                <unclear reason="ink-stain" xml:id="note-0044">وجسمه</unclear>
+                <lb n="B-77b-19"/>
+                
+                <fw type="catch" n="B-77b-C" place="left">ويفتت</fw>
+                
+            <milestone unit="folio" n="B-78a" xml:id="B-78a-ar"/>
+                
+                ويفتت
+                <term type="substance">الفضة</term>
+                <unclear reason="ink-stain" xml:id="note-0045">بجسمه</unclear>
+                بريحه ويحرقها
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                قارنها
+                <choice><orig>الاّ</orig><reg>إلاّ</reg></choice>
+                القليل في عشرة نصف
+                <note place="left margin">
+                    <unclear reason="ink-stain" xml:id="note-0046">
+                        <term type="process">يحله</term>
+                    </unclear>
+                    <lb n="B-77b-01-mg-1"/>
+                    <choice><orig>الاسرب</orig><reg>الأسرب</reg></choice>
+                    يحرق النحاس
+                    <lb n="B-77b-01-mg-2"/>
+                    تحليص الفضة في النحاس
+                    <lb n="B-77b-01-mg-3"/>
+                </note>
+                <lb n="B-78a-01"/>
+                
+                <unclear reason="ink-stain" xml:id="note-0047">
+                    ويذيب
+                    <term type="substance">الحديد</term>
+                    <hi rend="overline">
+                        <term type="substance">الأسرب</term>
+                    </hi>
+                    بحجر
+                    <term type="substance">الزيبق</term>
+                    بريحه ويحرق
+                </unclear>
+                <gap reason="ink-stain" atLeast="1" atMost="2" xml:id="note-0048"/>
+                <note place="below" corresp="#note-0048">
+                    <seg hand="#unknown">
+                        وهو
+                        <unclear reason="illegible" xml:id="note-0049">الملح</unclear>
+                        <seg type="editorial-symbol" subtype="questioning">س</seg>
+                    </seg>
+                </note>
+                <unclear reason="ink-stain" xml:id="note-0050">
+                    <term type="process">مازجه</term>
+                    و يتخلص
+                </unclear>
+                منه
+                <lb n="B-78a-02"/>
+                
+                ويُذهب بكثير من
+                <unclear reason="ink-stain" xml:id="note-0051">أزباله</unclear>
+                ويُخلّصُ
+                <term type="substance">الفضةُ</term>
+                به من
+                <term type="substance">النحاس</term>
+                غيره
+                <unclear reason="ink-stain" xml:id="note-0052">ويفتت الذهب</unclear>
+                ويكسره
+                <lb n="B-78a-03"/>
+                
+                بريحه وبجسمه وكذلك الماس
+                <choice><orig>فان</orig><reg>فأن</reg></choice>
+                <choice><orig>الاسرب</orig><reg>الأسرب</reg></choice>
+                يفتته ويكون منه
+                <term type="substance">
+                    <choice><orig>اسرنج</orig><reg>إسرنج</reg></choice>
+                </term>
+                <term type="substance">
+                    <choice><orig>واسفيداج</orig><reg>وإسفيداج</reg></choice>
+                    الرصاص
+                </term>
+                <lb n="B-78a-04"/>
+                
+                <term type="substance">والمرتك</term>
+                ويذيب
+                <term type="substance">الحديد</term>
+                <hi rend="overline">
+                    <term type="substance">الحديدُ</term>
+                </hi>
+                يصلب
+                <term type="substance">الرصاصَ</term>
+                ويقيمه
+                <unclear reason="ink-stain" xml:id="note-0053">للنار</unclear>
+                ويذهب بصريره
+                <lb n="B-78a-05"/>
+                
+                وريحه غير
+                <choice><orig>انه</orig><reg>أنه</reg></choice>
+                يسوه
+                <choice xml:id="note-0054">
+                    <sic></sic>
+                    <corr corresp="#B-78a-corr-above-the-line-01"/>
+                </choice>
+                <note place="above" corresp="#note-0054">
+                    <seg hand="#copier">
+                        <seg type="insertion" xml:id="B-78a-corr-above-the-line-01">
+                            <unclear reason="illegible" xml:id="note-0055">به</unclear>
+                        </seg>
+                        <lb n="B-78a-06-mg-1"/>
+                        <seg type="editorial-symbol">⋁</seg>
+                    </seg>
+                </note>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                لم يكم مبيضا ويصلب
+                <note place="above">
+                    <seg hand="#unknown">
+                        هو
+                        <unclear reason="illegible" xml:id="note-0056">الملح</unclear>
+                    </seg>
+                </note>
+                <term type="substance">القضة</term>
+                ويسوّدها و يحمّرها ويعسر خلاصها
+                <lb n="B-78a-06"/>
+                
+                منها ومن
+                <term type="substance">الذهب</term>
+                ومن
+                <term type="substance">النحاس</term>
+                ويمنع 
+                <term type="substance">الزيبقَ</term>
+                <choice><orig>اَن</orig><reg>أن</reg></choice>
+                يطير عنه
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                جملته فيه وهو محمّرٌ
+                <lb n="B-78a-07"/>
+                
+                بالحمر ويكون له
+                <term type="substance">زنجاراً</term>
+                احمر
+                <hi rend="overline">
+                    <term type="substance">الزربيخ</term>
+                </hi>
+                يبيض
+                <term type="substance">النحاس</term>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                <term type="process">صاعدتَه</term>
+                ويذيبُ
+                <term type="substance">الحديدَ</term>
+                <lb n="B-78a-08"/>
+                
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                شوّيتَه ويصلب 
+                <term type="substance">القلعي</term>
+                برايحته ويبيض
+                <term type="substance">الذهب</term>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                طعمته من جوهره ويرخي
+                <lb n="B-78a-09"/>
+                
+                ذوب جميع
+                <choice><orig>الاجساد</orig><reg>الأجساد</reg></choice>
+                يسود القِطعةَ
+                <del>ويطوسها ويحرقها</del>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                لم 
+                <term type="process">تصعده</term>
+                <choice><orig>فان</orig><reg>فإن</reg></choice>
+                <lb n="B-78a-10"/>
+                
+                قلّ من ذلك ويجمد
+                <term type="substance">الزيبق</term>
+                بجمعه وبريحه
+                <hi rend="overline">
+                    <term type="substance">التوتيا</term>
+                </hi>
+                تصفر
+                <term type="substance">النحاس</term>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                <choice><orig>احرقت</orig><reg>أحرقت</reg></choice>
+                بالدهن
+                <lb n="B-78a-11"/>
+                
+                والدبس وتكسر
+                <term type="substance">الذهب</term>
+                ويحمر لوْ
+                <choice><orig>اشويته</orig><reg>أشويته</reg></choice>
+                مع
+                <term type="substance">الكبريت</term>
+                <hi rend="overline">
+                    <term type="substance">الطلق</term>
+                    <term type="substance">والجبصين</term>
+                </hi>
+                لا يوثر
+                <lb n="B-78a-12"/>
+                
+                في
+                <choice><orig>الاجساد</orig><reg>الأجساد</reg></choice> 
+                الحيّة
+                <choice><orig>شياأَ</orig><reg>شياءً</reg></choice>
+                <choice><orig>وان</orig><reg>وإن</reg></choice>
+                شوى
+                <term type="substance">الرصاص</term>
+                وعذى به نقاه
+                <hi rend="overline">
+                    <term type="substance">المغناطيس</term>
+                </hi>
+                <lb n="B-78a-13"/>
+                
+                يحرق
+                <term type="substance">النحاس</term>
+                ويفْتت
+                <term type="substance">الذهب</term>
+                ويجذب
+                <term type="substance">الحديد</term>
+                <hi rend="overline">
+                    <term type="substance">الكحل</term>
+                </hi>
+                هو كثل
+                <term type="substance">
+                    <choice><orig>الاسرب</orig><reg>الأسرب</reg></choice>
+                </term>
+                في فعله
+                <lb n="B-78a-14"/>
+                
+                عير
+                <choice><orig>انه</orig><reg>أنه</reg></choice>
+                يفتت
+                <term type="substance">الفضة</term>
+                وكذلك
+                <term type="substance">المرداسنج</term>
+                <hi rend="overline">
+                    <term type="substance">الزاج</term>
+                </hi>
+                يلوّن
+                <term type="substance">الذهب</term>
+                ويحرق
+                <term type="substance">الفضة</term>
+                <lb n="B-78a-14"/>
+                
+                ويبيّس
+                <term type="substance">الزيبق</term>
+                <hi rend="overline">
+                    <term type="substance">الملح</term>
+                </hi>
+                <hi rend="marked">
+                    <choice xml:id="note-0057"><sic>ىكون</sic><corr>يكون</corr></choice>
+                    <metamark place="above-4">
+                        <seg type="editorial-symbol" subtype="insertion">∴</seg>
+                    </metamark>
+                </hi>
+                ويحرقها
+                <add place="above">
+                    <seg type="editorial-symbol">∴</seg>
+                </add>
+                بشدة النار ويبيض
+                <term type="substance">الكبريت</term>
+                <term type="substance">والزرنيخ</term>                
+                <note place="left margin" corresp="#note-0060">
+                    <seg hand="#copyist">
+                        <seg type="editorial-symbol">∴</seg>
+                    </seg>
+                </note>
+                <lb n="B-78a-15"/>
+            
+                
+                
+                
+                <term type="substance">والزيبق</term>
+                
+                <term type="process">صعدت</term>
+                به
+                <hi rend="overline">
+                    <term type="process">النوشادر</term>
+                </hi>
+                <term type="process">ريحلّل</term>
+                <term type="substance">الزيبق</term>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                <term type="process">امتزج</term>
+                به
+                <term type="process">بالتصعيد</term>
+                <note place="left margin" corresp="#note-0060">
+                    <seg hand="#copyist">
+                        محل
+                        <lb n="B-78a-16-mg-1"/>
+                        النوشادر حلل كل
+                        <choice><orig>الاجساد</orig><reg>الأجساد</reg></choice>
+                        <lb n="B-78a-16-mg-2"/>
+                    </seg>
+                </note>
+                <lb n="B-78a-16"/>
+                
+                
+                <term type="process">ويشمع</term>
+                <term type="substance">النحاس</term>
+                <term type="substance">والفضة</term>
+                <term type="substance">والذهب</term>
+                ويجريهما
+                <term type="process">ويحلّل</term>
+                كلَّ الاجساد ويدبر
+                <term type="substance">الرصاص</term>
+                <lb n="B-78a-17"/>
+                
+                بالذوب ويفتته
+                <term type="process">بالتشوية</term>
+                <hi rend="overline">
+                    <term type="substance">الشبّ</term>
+                </hi>
+                يفعل مثل فعل
+                <term type="process">المزاج</term>
+                <term type="substance">الزنجار</term>
+                يسوّد
+                <term type="substance">الفضّة</term>
+                
+            <milestone unit="folio" n="B-78b" xml:id="B-78b-ar"/>
+                ويحمر
+                <term type="substance">النحاسَ</term>
+                <choice><orig>اذا</orig><reg>إذا</reg></choice>
+                احرقه به
+                <term type="process">واستنزل</term>
+                <term type="process">ويصبغ</term>
+                <term type="substance">البلّور</term>
+            </p>
+        </div>
+        
+        <!-- Transliteration -->
+        <div xml:lang="lat-ar">
+        </div>
+        
+        <!-- English Translation -->
+        <div xml:lang="eng">
+        </div>
+        
+    </body>
+</text>
+</TEI>
