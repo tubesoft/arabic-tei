@@ -29,6 +29,13 @@ export default defineConfig({
         const src = path.resolve(__dirname, 'docs/index.html')
         const dest = path.resolve(__dirname, 'docs/404.html')
         fs.copyFileSync(src, dest)
+      },
+    },
+    {
+      name: 'copy-nojekyll',
+      closeBundle () {
+        const nojekyllPath = path.resolve(__dirname, 'docs/.nojekyll')
+        fs.writeFileSync(nojekyllPath, '')
       }
     },
     // https://github.com/vuetifyjs/vuetify-loader/tree/master/packages/vite-plugin#readme
