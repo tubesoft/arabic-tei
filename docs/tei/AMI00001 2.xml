@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="AMI00001">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                <title>Dhikr al-khamāʾir</title>
+                <idno>AMI00001</idno>
+            </title>
+            <author>
+                Abū Bakr Muḥammad ibn Zakariyyāʾ
+                <surname>al-Rāzī</surname>
+            </author>
+            <respStmt><name xml:id="tainoue">Takatomo Inoue</name><resp>Editor</resp></respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Takatomo Inoue</publisher>
+            <pubPlace>Bloomington,IN</pubPlace>
+            <date>2025</date>
+            <availability status="restricted"><p>The texts and images available in it are provided for non-commercial, 
+                personal, or research use only and are protected under the copyright laws of the United States and 
+                the Universal Copyright Convention. All other use, including but not limited to commercial or 
+                scholarly reproductions, redistribution, publication or transmission, whether by electronic means or 
+                otherwise, without prior written permission of the copyright holder is strictly prohibited. 
+                Copyright to this project is held by Takatomo Inoue</p> 
+            </availability>
+        </publicationStmt>
+        <notesStmt>
+            <note type="translation_status" anchored="true">
+                <p>A translation of this document will be ready later.</p>
+            </note>
+        </notesStmt>
+        <sourceDesc>
+            <msDesc xml:id="F">
+                <msIdentifier>
+                    <country>Republic of Turkey</country>
+                    <settlement>Istanbul</settlement>
+                    <institution/>
+                    <repository>Suleymaniye Library</repository>
+                    <collection>Fatih</collection>
+                    <idno>5309/2</idno>
+                </msIdentifier>
+                <msPart>
+                    <msIdentifier>
+                        <idno>ff. 18b-26a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem defective="unknown">
+                            <author xml:lang="ar">محمد ابن زكريا الرازي</author>
+                            <author xml:lang="lat-ar">
+                                Abū Bakr Muḥammad ibn Zakariyyāʾ
+                                <surname>al-Rāzī</surname>
+                            </author>
+                            <title xml:lang="ar">رسالة في خواص الإكسير</title>
+                            <title xml:lang="lat-ar">Risāla fī khawāṣṣ al-iksīr</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        Measurements: 210 x 140 - 160 x 100 mm
+                                    </p>
+                                    <p>
+                                        Font: Arabic Naskh
+                                    </p>
+                                </support>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="unknown" xml:id="scribe-F"></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p></p>
+                        </origin>
+                        <provenance>
+                            <p></p>
+                        </provenance>
+                        <acquisition>
+                            <p></p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <surrogates>
+                            <p></p>
+                        </surrogates>
+                    </additional>
+                </msPart>
+            </msDesc>
+            <msDesc xml:id="HM">
+                <msIdentifier>
+                    <country>Republic of Turkey</country>
+                    <settlement>Istanbul</settlement>
+                    <institution/>
+                    <repository>Suleymaniye Library</repository>
+                    <collection>Haci Mahmut</collection>
+                    <idno>4224/4</idno>
+                </msIdentifier>
+                <msPart>
+                    <msIdentifier>
+                        <idno>ff. 20b-23b</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem defective="unknown">
+                            <author xml:lang="ar">محمد ابن زكرياء الرازي</author>
+                            <author xml:lang="lat-ar">Abū Bakr Muḥammad ibn Zakariyyāʾ al-Rāzī</author>
+                            <title xml:lang="ar">ذكر الخمائر</title>
+                            <title xml:lang="lat-ar">Dhikr al-khamāʾir</title>
+                            <note type="description" anchored="true">
+                                It is cataloged as a part of
+                                Jābir ibn Ḥayyān, al-Maqālat al-sādisa min khawāṣṣ al-iksīr
+                            </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        Measurements: 228 x 149 mm
+                                    </p>
+                                    <p>
+                                        Font: Arabic Naskh
+                                    </p>
+                                </support>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="unknown" xml:id="scribe-HM"></handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p></p>
+                        </origin>
+                        <provenance>
+                            <p></p>
+                        </provenance>
+                        <acquisition>
+                            <p></p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <surrogates>
+                            <p></p>
+                        </surrogates>
+                    </additional>
+                </msPart>          
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <body>
+        <!-- Arabic Text -->
+        <!-- TODO <term> substance, instrument, process, principle, decknamen, Islamic, number, medical, astrology -->
+        <div xml:lang="ar">
+            
+            <p n="1">
+                
+        <milestone unit="folio" n="F-18b-13" xml:id="F-18b-13-ar"/>
+
+        <milestone unit="folio" n="HM-20b-14" xml:id="HM-20b-14-ar"/>
+                
+                قال
+                <persName>محمد بن زكرياء الرازي</persName>
+                <addName type="honorific">عليه الرحمة والرضوان</addName>
+                في
+                <bibl>
+                    ذكر الخمائر المذكورة في الكتب في اركان البرانية
+                    <app n="1">
+                        <lem>والحيوانية</lem>
+                        <rdg wit="#F #HM">والجوانية</rdg>
+                        <note type="editorial" xml:id="note-0002">
+                            The corresponding title in Kitāb al-asrār says الحيوانية.
+                        </note>
+                    </app>
+                    والنباتية والمفروغ منها يكون معه عند
+                    <orgName type="group">الحكماء</orgName>
+                    ليزوج لهم العمل
+                    ومتى وهموا بها فيرتفع لهم العمل بأهون سعي وأقرب مدة
+                    <note type="biblio" xml:id="note-0001">
+                        The corresponding title is found in Kitāb al-asrār. See al-Razī, ed., M. T. Dānish Pazhūh, Kitāb al-asrār, p. 114.
+                    </note>
+                </bibl>
+                <term type="Islamic">إن شاء الله تعالى</term>
+            </p>
+            
+            <p n="2">
+                قال
+                <persName>محمد بن زكرياء الرازي</persName>
+                إذا فرغ
+                <term type="substance">الإكسير</term>
+                يؤخذ منه
+                <term type="unit">وزن حبة</term>
+                توضع على صفيحة ويلوح على النار فإن
+                <app n="2">
+                   <lem wit="#HM">ذاب</lem>
+                   <rdg wit="#F">داب</rdg>
+                </app>
+                <term type="substance">الإكسير</term>
+                
+        <milestone unit="folio" n="F-19a" xml:id="F-19a-ar"/>
+                
+                وغاص وأفرش على الصفيحة
+                <app n="3">
+                   <lem wit="#HM">ونفذ</lem>
+                   <rdg wit="#F">وينفد</rdg>
+                </app>
+                منها بأقل ما يكون من وهج النار بالصفيحة وثبتت لونه ولا يتغير فقد كمل أمره وسِلم من أفات التدبير
+            </p>
+            
+            <p n="3">
+                إن كان
+                <term type="substance">
+                    إكسير
+                    <term type="color">الحمرة</term>
+                </term>
+                وإن كان
+                <term type="substance">
+                    إكسير
+                    <term type="color">البياض</term>
+                </term>
+                جرى على الصفيحة عند التلويح بها على النار ولم
+                <app n="4">
+                   <lem wit="#HM">ينفذ</lem>
+                   <rdg wit="#F">ينفد</rdg>
+                </app>
+                ولم أفرش في وسط الصفيحة دون غوص بالغ فقد دخلته آفة في الحل الذي هو حل
+                <orgName type="group">الحكماء</orgName>
+            </p>
+            
+            <p n="4">
+                واعلم أن تدبير
+                <orgName type="group">الحكماء</orgName>
+                ليس فيه 
+                <term type="process">سحق بيد</term>
+                ولا
+                <term type="process">تقطير</term>
+                ولا
+                <term type="process">تعفين</term>
+                بزبل وهو
+                <term type="process">يحل</term>
+                نفسه بالنار في إنائه 
+                <term type="process">ويكلس</term>
+                نفسه في مكانه
+                <term type="process">ويسود</term>
+                نفسه في مكانه
+                <term type="process">ويحمر</term>
+                نفسه في مكانه ولا يدبره في انائين لكن في اناء واحد وهو الصلاية
+                <term type="process">والتشميع</term>
+                <app n="5">
+                   <lem wit="#HM">وهو</lem>
+                   <rdg wit="#F">ملو</rdg>
+                </app>
+                <term type="instrument">الأثال</term>
+                <term type="process">والسحق</term>
+                وهو
+                <term type="process">التكليس</term>
+                وهو
+                <term type="process">التعفين</term>
+                وهو ما ذكرنا فإذا كان
+                <term type="substance">الجسد</term>
+                على هذه الصفة عند
+                <term type="substance">تحليله</term>
+                كتف وغلظ وكل عن الصفيحة أن
+                <app n="6">
+                   <lem wit="#HM">ينفذ</lem>
+                   <rdg wit="#F">ينفد</rdg>
+                </app>
+                فيها أو
+                <app n="7">
+                   <lem wit="#HM">ينفذ</lem>
+                    <rdg wit="#F">ينفد</rdg>
+                </app>
+                للجانب
+                <app n="8">
+                   <lem>الأخر</lem>
+                   <rdg wit="#F">الاخر</rdg>
+                   <rdg wit="#HM">الآخر</rdg>
+                </app>
+                لغلظه وقلة
+                <app n="9">
+                   <lem wit="#F">رقته</lem>
+                   <rdg wit="#HM">دقّته</rdg>
+                </app>
+                وثخانته من قلة الرقة
+                <term type="process">والتحليل</term>
+                فلا هو يرتفع عن
+                <term type="substance">الجسد</term>
+                <term type="process">فيطير</term>
+                <term type="substance">ذلك الإكسير</term>
+                عن
+                <term type="substance">الجسد</term>
+                الملقى عليه فإن غاص في وجه الصفيحة وتوقف ولم يفرش على الصفيح
+                <app n="10">
+                   <lem wit="#HM">وسرى</lem>
+                   <rdg wit="#F">وسرا</rdg>
+                </app>
+                أخرها علمنا أن ذلك من قلة
+                <term type="principle">الهوائية</term>
+                في
+                <term type="substance">الإكسير</term>
+                اعني
+                <term type="principle">النفس</term>
+                تسري في
+                <term type="substance">الجسد</term>
+                وتذوب في جميع أجزائه
+                
+        <milestone unit="folio" n="HM-21a" xml:id="HM-21a-ar"/>
+                
+                من كل الجهات لأن
+                <term type="substance">الدهن</term>
+                هو الذي يشمع ويذوب ويجمد
+                <app n="11">
+                   <lem wit="#HM">وينفذ</lem>
+                   <rdg wit="#F">ونفد</rdg>
+                </app>
+                في جميع
+                <term type="substance">الأجساد</term>
+                فإن غاص في الصفيحة وطار عنها من وهج النار المفرطة أو بكثرة تكريره على النار علمنا أن ذلك من ضعف قوى
+                <term type="principle">الأرض</term>
+                الماسكة
+                
+        <milestone unit="folio" n="F-19b" xml:id="F-19b-ar"/>
+                
+                <term type="principle">للأرواح</term>
+                لأن
+                <term type="principle">الأرواح</term>
+                نافرة من وهج النار لا يمسكها ويلقى منها وهج النار غير
+                <term type="substance">الجسد</term>
+                وهي
+                <term type="principle">الأرض</term>
+                وقلتها في
+                <term type="substance">الإكسير</term>
+                وقوى
+                <term type="principle">الروحانية</term>
+                ولم تستطع
+                <term type="principle">الأرضية</term>
+                على إمساك
+                <term type="principle">الأرواح</term>
+                لغلبة
+                <term type="principle">الأرواح</term>
+                عليها وكثرتها فيها وقلة
+                <term type="principle">الارضية</term>
+                فطارت 
+                <term type="principle">الارضية</term>
+                صربة واحدة ولم تقدر
+                <term type="principle">الأرض</term>
+                تمسكها فإن غاص
+                <term type="substance">الإكسير</term>
+                وفرش
+                <app n="12">
+                   <lem wit="#HM">وسرى</lem>
+                   <rdg wit="#F">وسرا</rdg>
+                </app>
+                في جميع الصفيحة بالنار غبرا او مظلمة ولم يشرق نور
+                <term type="substance">الإكسير</term>
+                في وجه الصحيفة من خارجها وداخلها علمنا أن ذلك من بقية
+                <term type="substance">كبريتة الروح</term>
+                وقلة خلوصه ونفاده عن تنفيسه فشي فيه شي من عكر
+                <term type="principle">الأرض</term>
+                السوداء في وقد تدبيره الآخر فهذه  جميع حدود علل
+                <term type="substance">الإكسير</term>
+                الداخلة عليه في التدبير فيجب أن يحفظ في التدبير من الزيادة والنقصان
+            </p>
+
+            <p n="5">
+                واعلم أن
+                <term type="substance">الإكسير</term>
+                إذا سلم من آفات التدبير وكمل خرج رائقًا في منظره قوى في مخبره معتدلا في طبيعته لا
+                <term type="principle">حارًا</term>
+                ولا
+                <term type="principle">رطبًا</term>
+                ولا
+                <term type="principle">يابسًا</term>
+                يذوب بحر النار ويجمد ببرد الهواء
+                <app n="13">
+                   <lem wit="#HM">وينفذ</lem>
+                   <rdg wit="#F">وينفد</rdg>
+                </app>
+                في
+                <term type="substance">الجسد</term>
+                الملقي عليه بالغوص فيه والافتراش في جميع أجزائه
+                وينقله إلى طبيعته باقيًا خالصًا لا يتغير بالنار
+                ولا تحله على ممر الأيام والدهور بل يزداد بالنار 
+                كمالًا وبهجة وجمالا وهذه شروط
+                <term type="substance">الاكسير</term>
+                وحدودها
+            </p>
+            
+            <p n="6">
+                وأما إلقاء
+                <term type="substance">الإكسير</term>
+                فتلقى منه واحد على
+                <term type="number">مائة وتسعين</term>
+                جزؤًا من
+                <term type="substance">الجسد</term>
+                <term type="color">الأبيض</term>
+                وهي
+                <term type="substance">الفضة</term>
+                تجعلها في
+                <term type="instrument">
+                    <app n="14">
+                        <lem wit="#F">البوتقة</lem>
+                        <rdg wit="#HM">پوتقة</rdg>
+                    </app>
+                </term>
+                وتديرها إلى أن تصير
+                <term type="substance">ماء جاريًا</term>
+                
+        <milestone unit="folio" n="F-20a" xml:id="F-20a-ar"/>
+                
+                فإذا تحكّم دوران
+                <term type="substance">الفضة</term>
+                ألقيت عليها
+                <term type="substance">
+                    الاكسير
+                    <term type="color">الأحمر</term>
+                </term>
+                في شمع على رأس عظم ليغوص فيه فإذا
+                <term type="process">امتزج</term>
+                <term type="process">امتزاجًا</term>
+                جيدًا فرغته وتركته حتى يبرد فيخرج تبرًا في لون
+                <term type="substance">ماءِ الزعفران</term>
+                فإذا بردت السبيكة طرقها فإن تطرقت وامتدت أعدها إلى السبك
+                <term type="number">الثانية</term>
+                مرة وأفرغها
+                <term type="number">وثالث</term>
+                مرة وكلما كررها على النار يمكن
+                <term type="substance">الإكسير</term>
+                منها بقوته وازدادت صبغًا وبهجة ولينا وابتهاجًا
+                وإن تشققت وانكسرت زدت عليها
+                <term type="substance">فضة</term>
+                أخرى بمقدار ما تشعل فيه قوة
+                <term type="substance">الإكسير</term>
+            </p>
+            
+            <p n="7">
+                وأما
+                <term type="substance">
+                    إكسير
+                    <term type="color">البياض</term>
+                </term>
+                فأنك يلقى منه جزؤًا
+                <term type="number">واحدًا</term>
+                على
+                <term type="number">مائة وتسعين</term>
+                جزءًا من
+                <term type="substance">
+                    النحاس
+                    <term type="color">الأحمر</term>
+                </term>
+                بعد أن يخلص
+                <term type="number">ثلاث</term>
+                مرات
+                <app n="15">
+                   <lem wit="#HM">يسبك</lem>
+                   <rdg wit="#F">يسٮك</rdg>
+                </app>
+                ثم يذاب في المرة
+                <term type="number">الرابعة</term>
+                ويلقى عليه
+                <term type="substance">
+                    اكسير
+                    <term type="color">الأبيض</term>
+                </term>
+                بعد أن يدور
+                <term type="substance">النحاس</term>
+                دورانا بالغًا في 
+                <term type="instrument">بوتقة</term>
+                فإذا برد طرقة فإن تشقق زده
+                <term type="substance">نحاسًا</term>
+                من
+                <term type="substance">النحاس</term>
+                المخلص بالنار
+                <term type="number">ثلاث</term>
+                مرات بقدر ما تشعل فيه قوة
+                <term type="substance">الإكسير</term>
+                الزائدة عن القدر فإن تطرق وامتد ولم يتشق فقد كفى فدبّره وتفرغه
+                <term type="number">ثلاث</term>
+                مرات حتى يتمكن فيه
+                <term type="substance">الإكسير</term>
+                فأن ذلك فيما يزيد في
+                <term type="color">بياضه</term>
+                <term type="principle">ورطوبته</term>
+            </p>
+            
+            <p n="8">
+                فصل قال
+                <persName>
+                    <app n="16">
+                        <lem wit="#F">جابر عليه الرحمة</lem>
+                        <rdg wit="#HM">جابر</rdg>
+                    </app>
+                </persName>
+                في
+                <bibl>
+                    كتاب الرحمة
+                    <note type="biblio" xml:id="note-0003">
+                        An edition: Jābir ibn Ḥayyān, Kitāb al-raḥma al-kabīr, ed. Marcellin Berthelot in idem, La chimie au moyan âge (Paris: Imprimerie Nationale, 1893), pp. 132-160.
+                    </note>
+                </bibl>
+                أما القاء
+                <term type="color">الأبيض</term>
+                من
+                <term type="principle">الإكسير</term>
+                على
+                <term type="substance">البلور</term>
+                الدائر بالمسك فأنه يقلبه جوهرًا
+                <term type="color">أبيضا</term>
+                وعلى
+                <term type="substance">الزجاج</term>
+                المنسك أقلبه
+                <term type="substance">بلورًا</term>
+                وهو
+                <term type="process">تصبغ</term>
+                <term type="substance">الأحجار</term>
+            </p>
+            
+            <p n="9">
+                وكذلك إذا ألقيت
+                <term type="substance">
+                    الأكسير
+                    <term type="color">الأحمر</term>
+                </term>
+                عليه أقلبه
+                <term type="substance">
+                    ياقوتا
+                    <term type="color">أحمرًا</term>
+                </term>
+                وله وزن معلوم يطرح على
+                <term type="substance">البلور</term>
+                وأنا أذكره
+                
+        <milestone unit="folio" n="F-20b" xml:id="F-20b-ar"/>
+                
+                يؤخذ من
+                <term type="substance">البلور</term>
+                <term type="unit">منًّا</term>
+                <term type="unit">ومنًّا</term>
+                من
+                <term type="substance">الزجاج</term>
+                فيسبك كل واحد
+                <app n="17">
+                   <lem wit="#HM">منها</lem>
+                   <rdg wit="#F">منهما</rdg>
+                </app>
+                على حدة ثم يطرح على المن
+                <term type="substance">البلور</term>
+                من ذلك الدواء
+                <term type="color">الأبيض</term>
+                وزن
+                <term type="number">عشر</term>
+                <term type="unit">شعيرات</term>
+                
+        <milestone unit="folio" n="HM-21b" xml:id="HM-21b-ar"/>
+                
+                وعلى
+                <term type="substance">الزجاج</term>
+                وزن
+                <term type="number">خمس</term>
+                <term type="unit">شعيرات</term>
+                اخرج
+                <term type="substance">البلور</term>
+                <term type="substance">ياقوتًا أبيضًا</term>
+                وصير
+                <term type="substance">الزجاج</term>
+                <term type="substance">بلورًا</term>
+                وإن طرحت على
+                <term type="substance">البلور</term>
+                وزن
+                <term type="number">عشر</term>
+                <term type="unit">شعيرات</term>
+                بعد أن يسبك سبكًا كاملًا اخرج
+                <term type="substance">البلور</term>
+                <term type="substance">
+                    ياقوتا
+                    <term type="color">أحمرًا</term>
+                </term>
+                واخرج
+                <term type="substance">الزجاج</term>
+                <term type="substance">
+                    بلورًا
+                    <term type="color">أحمرًا</term>
+                </term>
+                في صلابته ويكون في الشرف مثل
+                <term type="substance">الياقوت</term>
+                لأنه جوهر عظيم ومتى أخذ
+                <term type="number">عشر</term>
+                <term type="unit">أمنان</term>
+                من
+                <term type="substance">الزجاج</term>
+                الصافي وسبك وطرح عليه
+                <term type="number">خمسة</term>
+                <term type="unit">أمنان</term>
+                من
+                <term type="substance">الدهنج</term>
+                <term type="number">وخمس</term>
+                <term type="unit">حبات</term>
+                من
+                <term type="substance">
+                    الإكسير
+                    <term type="color">الأحمر</term>
+                </term>
+                ويسبك
+                <app n="18">
+                   <lem wit="#HM">سبع</lem>
+                   <rdg wit="#F">سبعة</rdg>
+                </app>
+                أيام بلياليها لا يغير عنه النار أخرجه
+                <term type="substance">
+                    ياقوتا
+                    <term type="color">أحمرًا</term>
+                </term>
+                لا تشك فيه وإن أطلت السبك حتى يبقي من جملته
+                <term type="number">ثلاث</term>
+                <term type="unit">أمنان</term>
+                قطعة واحدة فهو أحسن
+            </p>
+            
+            <p n="10">
+                وأما
+                <persName>سقراط</persName>
+                قد ذكر أن ذلك ليس بمحمود وأن الشيء إلا عدل أن يبقي منها
+                <term type="number">الربع</term>
+                وقد صدق
+                <persName>سقراط</persName>
+                النفاع
+                <orgName type="group">للناس</orgName>
+                وأيضًا إذا طرح عليه من
+                <term type="color">الأبيض</term>
+                أخرجه
+                <term type="substance">ياقوتا</term>
+                فإن زيد عليه أجزاء عن ذلك المقدار الذي حددناه ثم سبك دائمًا إلى أن يبقي منه
+                <term type="number">العشر</term>
+                أخرجه جوهرًا لا
+                <app n="19">
+                   <lem wit="#F">يدرأ</lem>
+                   <rdg wit="#HM">يدرئ</rdg>
+                </app>
+                ما هو ولا يوجد أحدًا يعرفه لأنه أبيض من الدرّ ومن
+                <app n="20">
+                   <lem wit="#F">البلور</lem>
+                   <rdg wit="#HM">والبلور</rdg>
+                </app>
+                وأشرف من
+                <term type="substance">الياقوت</term>
+                لأنه يضيء في الليل
+                <app n="21">
+                   <lem wit="#F">ويغنى</lem>
+                   <rdg wit="#HM">يفنى</rdg>
+                </app>
+                عن السراج والشمع وأما شعاعه فلا ينقطع أبدًا لا في الليل ولا في النهار وقد تكلمنا على صباغ
+                <term type="substance">الأحجار</term>
+                تتكلم على منافع
+                <term type="substance">الإكسير</term>
+                في أمراض العالم بأجمعه من الناس والبهائم والوحوش والطيور
+                <term type="Islamic">إن شاء الله تعالى</term>
+            </p>
+            
+            <p n="11">
+                فصل
+                
+        <milestone unit="folio" n="F-21a" xml:id="F-21a-ar"/>
+                
+                يجب أن ينظر إلى المرض وتعرف سببه
+                <app n="22">
+                   <lem wit="#F">فإن</lem>
+                   <rdg wit="#HM">وإن</rdg>
+                </app>
+                كان من
+                <term type="principle">حرارة</term>
+                فيسقي صاحبه من
+                <term type="substance">الإكسير الأبيض</term>
+                لأن طبعه
+                <term type="principle">البرودة</term>
+                فيزول ذلك المرض لوقته وساعته وذلك بجميع الأمراض العالم كثيرها
+                وقليلها وصعبها وهيّنها ولجميع السموم المهلك
+                وسوف أبين ما يسقي لكل واحد منه بقدر المرض 
+                ومنه ما يكون منفعته مخلوط مع غيره من الأدوية
+                <term type="Islamic">إن شاء الله تعالى</term>
+            </p>
+            
+            <p n="12">
+                فمن منافعه
+                لداء
+                <term type="medical">الجدري</term>
+                <term type="medical">والحصبة</term>
+                التي لا يكاد واحد من
+                <orgName type="group">الناس</orgName>
+                أن يسلم منها يؤخذ منه وزن
+                <term type="unit">درهمين</term>
+                <term type="substance">بماء الشعير</term>
+                ويضاف
+                بماء
+                <term type="substance">الطرخون</term>
+                المعتصر مع
+                <term type="unit">قيراط</term>
+                <term type="substance">كافور</term>
+                وأن يسقي قبل ظهور
+                <term type="medical">الجدري</term>
+                ابطله وأن يسقي بعد خروجه إزاله هذا دواء عزيز لهذا الداء
+            </p>
+            
+            <p n="13">
+                <term type="medical">الحميات البلغمية</term>
+                العارضة من الوباء إذا أضيف منه
+                <term type="unit">حبتان</term>
+                في ماء
+                <term type="substance">الحصرم</term>
+                وماء 
+                <term type="substance">البقلة الحمقاء</term>
+                مقدار
+                <term type="substance">ربع</term>
+                <term type="unit">رطل</term>
+                من المائين ويسقي العليل منه أبرأه من وقته وساعته وليس يكون يراه كما 
+                يكون من المحمومين لكن كما ينزل في جوفه
+                <term type="principle">فبادر</term>
+                به ويقوم من ساعته كأنّه قد أطلق من
+                <term type="medicine">عقال</term>
+                ولم يكن قط عليلًا
+            </p>
+            
+            <p n="14">
+                <term type="medicine">الحمى</term>
+                <term type="number">الربع</term>
+                <term type="number">والخمس</term>
+                <term type="number">والسدس</term>
+                <term type="number">والسبع</term>
+                إلى
+                <term type="number">العشر</term>
+                والشهورية والسنة
+                فأنّه يعمل فيها عمل العجائب والمعجزات إذا أخذ منه وزن
+                <term type="number">ثلث</term>
+                <term type="unit">شعيرات</term>
+                لهذه
+                <term type="medicine">الحميات</term>
+                وسقيت
+                <term type="unit">بلعاقة</term>
+                <term type="substance">الزيت</term>
+                أيرئ من يومها
+            </p>
+            <p n="15">
+                <term type="medicine">الحمى</term>
+                <term type="number">الخمس</term>
+                <app n="23">
+                   <lem wit="#HM">البلغمية</lem>
+                   <rdg wit="#F">البلعمية</rdg>
+                </app>
+                الملازمة متى سقى صاحبها 
+                وزن
+                <term type="unit">شعيره</term>
+                بماء
+                <term type="substance">الكمون المغلي</term>
+                ابراها وبين خفتها من ساعة
+            </p>
+                
+        <milestone unit="folio" n="F-21b" xml:id="F-21b-ar"/>
+            
+            <p n="16">
+                <term type="medicine">الحمى</term>
+                <term type="number">السدس</term>
+                <term type="principle">الحارة</term>
+                إذا سقي منها مقدار
+                <term type="unit">الخردلة</term>
+                فقط بماء
+                <term type="substance">الشعير</term>
+                <term type="substance">والسكنجبين</term>
+                إذا لم يكن بالعليل 
+                <term type="medicine">سعال</term>
+                ومتى أزيد عليه أكثر من
+                <term type="unit">الخردلة</term>
+                أقلب
+                <term type="medicine">الحمى</term>
+                <term type="principle">البارد</term>
+                لفرط
+                <term type="principle">برودة</term>
+                <term type="substance">
+                    الإكسير
+                    <term type="principle">البارد</term>
+                </term>
+                وكان من ذلك سقمًا بديعًا لا 
+                مثل له وهذا من خواص العجيبة
+            </p>
+            
+            <p n="17">
+                <term type="medicine">
+                    الحماء
+                    <term type="principle">الدم</term>
+                </term>
+                هي
+                <term type="number">سبعة</term>
+                ولها علامتان إن كانت من ابتداء أمرها سقى منه صاحبها مقدار
+                <term type="unit">شعيرتان</term>
+                بماء
+                <term type="substance">قشر الخشخاش</term>
+                الرطب فأنه
+                <app n="24">
+                   <lem wit="#HM">يبرئه</lem>
+                   <rdg wit="#F">يبريه</rdg>
+                </app>
+                في يوم وحق سيدي لقد خلصت به هذه
+                <term type="medicine">الحماء</term>
+                أكثر من الف نفس والله على شاهد وكان ذلك
+                
+        <milestone unit="folio" n="HM-22a" xml:id="HM-22a-ar"/>
+                
+                <app n="25">
+                   <lem wit="#HM">ظاهر</lem>
+                   <rdg wit="#F">طاهر</rdg>
+                </app>
+                بين
+                <orgName type="group">الناس</orgName>
+                في يوم واحد المكروب المفرط من
+                <term type="substance">شرب الأدوية المسهلة</term>
+                كنت يومًا من الأيام بعد ظهور أمرى في العلوم عند
+                <persName>يحيى بن خالد</persName>
+                وكانت له
+                جارية
+                كيسة لم يكن لاحد مثلها كانت قد
+                <term type="substance">شرب دواء مسهل</term>
+                فعنت عليها بالقيام وزاد عليها إلى أن قامت ما لم يكن لمثلها سبيل للخلوص منه 
+                ولا شفاء لها ثم أدركها مع ذلك القى حتى لم يقدر على النفس ولا الكلام البتة
+                فخرج الصارخ إلى عندي 
+                فقال 
+                يا سيدي 
+                ما عندك في ذلك فأشرت عليه أن تصب
+                <term type="substance">الماء البارد</term>
+                عليها لأني لم أشاهدها ولم أعلم بالسبب فضمدت معدتها
+                <term type="substance">بالملح المحمص</term>
+                وغمرت رجليها فلما زاد الأمر عليها سألني أن أراها فرايتها حائلة القوة
+                <term type="unit">حبًا</term>
+                وكان معي من هذا
+                <term type="substance">الإكسير</term>
+                شيء قليل فسقيتها وزن
+                <term type="unit">حبتين</term>
+                <term type="substance">بسكنجبين</term>
+                صرف مقدار
+                <term type="number">ثلث</term>
+                <term type="unit">أواق</term>
+                فلعقه
+                <app n="26">
+                   <lem wit="#HM">فوحق</lem>
+                   <rdg wit="#F">فوفق</rdg>
+                </app>
+                سيدي سترت وجهي عن 
+                الجارية
+                
+        <milestone unit="folio" n="F-22a" xml:id="F-22a-ar"/>
+                
+                لأنها عادت إلى أكمل ما كانت عليه أقل من نصف ساعة
+                <app n="27">
+                   <lem wit="#HM">زمانية</lem>
+                   <rdg wit="#F">رمانية</rdg>
+                </app>
+                <app n="28">
+                   <lem wit="#HM">وأنكبَ</lem>
+                   <rdg wit="#F">ذا نكيٮ</rdg>
+                </app>
+                على رجلي فقبلها فقلت له لا تفعل
+                <app n="29">
+                   <lem wit="#HM">فسألني</lem>
+                   <rdg wit="#F">فساء لنى</rdg>
+                </app>
+                <app n="30">
+                   <lem wit="#HM">زائدة</lem>
+                   <rdg wit="#F">فائده</rdg>
+                </app>
+                الدواء وأخذ ما بقي معي منه فلم أفعل 
+                ثم طلب العلم الرياسة والدراسة للعلوم إلى أن عرف ذلك وكان
+                <app n="31">
+                   <lem wit="#F">ابنته</lem>
+                   <rdg wit="#HM">ابنت</rdg>
+                </app>
+                <persName>جعفر</persName>
+                أزكي منه فأخذ عني العلم وفهم وكانت لي
+                جارية
+                أكلت
+                <term type="substance">زرنيخًا أصفر</term>
+                مقدار
+                <term type="unit">أوقية</term>
+                فيما ذكرت فلم أجد لها دواء ولم أترك شيئا مما ينفع
+                <term type="substance">السموم</term>
+                آلاء وعالجتها به فلم ينفعها فسقيتها من ذلك
+                <term type="substance">الإكسير</term>
+                وزن
+                <term type="unit">حبّه</term>
+                <term type="substance">بعسل</term>
+                <term type="substance">وماء</term>
+                فما وصل إلى جوفها
+                حتى رمت به بأسره وقامت على السرسم والعادة ولجميع
+                <term type="substance">السموم</term>
+                ينتفع به وينبغي أن يسقى منه في جميعها وزن
+                <term type="unit">حبّه</term>
+                من الأشياء
+                <term type="principle">الباردة</term>
+                <term type="substance">بالعسل</term>
+                وما
+                <app n="32">
+                   <lem wit="#F">يجري مجراها</lem>
+                   <rdg wit="#HM">يجرا مجراه</rdg>
+                </app>
+            </p>
+            
+            <p n="18">
+                وبالأشياء
+                <term type="principle">الحارة</term>
+                <term type="principle">بالباردة</term>
+                فليكن من
+                <term type="substance">مياه البقول</term>
+                وأمثال ذلك فاعرف ولا تجاوزه والسلام
+            </p>
+            
+            <p n="19">
+                وكنت يومًا خارجًا من منزل فإذا أتى بإنسان قد انفتح جانبه الأيمن وأخضر حتى صار
+                <app n="33">
+                   <lem wit="#HM">كالصلق</lem>
+                    <rdg wit="#F">The kāf is incomplete.</rdg>
+                </app>
+                وبدت الزرقة في مواضع في بدنه فإذا هو ملسوع أفعى
+                <app n="34">
+                   <lem wit="#F">أفعى</lem>
+                   <rdg wit="#HM">أفعا</rdg>
+                </app>
+                <app n="35">
+                   <lem wit="#HM">نهشته</lem>
+                   <rdg wit="#F">تهشته</rdg>
+                </app>
+                فسقيته وزن
+                <term type="unit">حبّة</term>
+                <term type="substance">بماء بارد</term>
+                فشقاه لأني خفت أن لا يهلك قبل أن ألحقه بالدواء فوالله العظيم لقد رأيت لونه
+                <term type="substance">الأخضر</term>
+                <term type="substance">والأزرق</term>
+                لاعيا كانا عليه
+                <app n="36">
+                   <lem wit="#HM">وضمدت</lem>
+                   <rdg wit="#F">وصمدت</rdg>
+                </app>
+                الفتحة
+                
+        <milestone unit="folio" n="F-22b" xml:id="F-22b-ar"/>
+                
+                حتى لم يبق منها شيء فتكلم فقام وانصرف سالما لا علة فيه
+                <app n="37">
+                   <lem wit="#HM">ولما</lem>
+                    <rdg wit="#F">اما</rdg>
+                </app>
+                كان الواجب أن يسقى
+                <term type="substance">بالعسل</term>
+                وما
+                <app n="38">
+                   <lem wit="#HM">يجري</lem>
+                   <rdg wit="#F">يجرا</rdg>
+                </app>
+                مجراه ويطعم
+                <term type="substance">الزبيب</term>
+                <term type="substance">والبندق</term>
+                ولكن الأمر أعجل عن ذلك فوهب الله له العافية
+                ووهب الله له العافية 
+                ووهب له نفسه سريعًا 
+                ولقد امتحنته في جميع
+                <term type="substance">الهوام</term>
+                بوزن
+                <term type="unit">حبة</term>
+                الا
+                <app n="39">
+                   <lem wit="#HM">الافعى</lem>
+                   <rdg wit="#F">الافعا</rdg>
+                </app>
+                فحبتين
+            </p>
+            
+            <p n="20">
+                وأما
+                <term type="medicine">نزف الدم</term>
+                من
+                <term type="medicine">الجراحات</term>
+                <term type="medicine">وجبر المواضع المكسورة</term>
+                <app n="40">
+                   <lem wit="#HM">وعلاج</lem>
+                   <rdg wit="#F">علاح</rdg>
+                </app>
+                <term type="medicine">القروح</term>
+                <term type="medicine">والالام</term>
+                <term type="medicine">والخراجات</term>
+                <term type="medicine">والدواحيس</term>
+                ولحرق النار والثلج وضروب
+                <term type="medicine">الطواعين</term>
+                والأكلة والحمرة العارضة كثير من الناس والنار الفارسية والتسليل والسقط والعلة المسمى
+                <term type="medicine">بالمنجية</term>
+                <term type="medicine">والدماميل</term>
+                <term type="medicine">والسلع</term>
+                <term type="medicine">والخنازير</term>
+                <term type="medicine">والسرطان</term>
+                والشقاق وجميع الأعلى والأسفل من البدن
+                <term type="medicine">والجرب</term>
+                <term type="medicine">والحكّة</term>
+                <term type="medicine">والشراء</term>
+                <term type="medicine">والجذام</term>
+                <term type="medicine">والخصاف</term>
+                <term type="medicine">والبرص</term>
+                <term type="medicine">والبهق</term>
+                <term type="medicine">والقوبة</term>
+                <term type="medicine">والكلف</term>
+                وجميع ضروب هذه العلل وإصلاح فساد الألوان
+                حتى ترجع إلى أحوالها الطبيعية وجميع أصناف
+                <term type="medicine">الشقيقة</term>
+                فأن هذا الدواء العظيم الخطر ينفع منها كلها فيما يلبسه ومقابله علل الناس جميعًا وما يليها
+            </p>
+            
+            <p n="21">
+                ينبغي أن
+                <app n="41">
+                   <lem wit="#HM">يبدأ</lem>
+                   <rdg wit="#F">يبرا</rdg>
+                </app>
+                أخذ العلل مكان منها بالحلق 
+                فلا يعرب الرأس جميعًا بل يسعط منه في العلل الغليظة المزمنة بوزن
+                <term type="unit">حبّة</term>
+                <term type="substance">بماء الحمص</term>
+                وما
+                <app n="42">
+                   <lem wit="#HM">يجري</lem>
+                   <rdg wit="#F">يجرا</rdg>
+                </app>
+                مجراه
+                <app n="43">
+                   <lem wit="#F">وقد</lem>
+                   <rdg wit="#HM">
+                       وقد
+                       <hi rend="crossout">يكون</hi>
+                   </rdg>
+                </app>
+                يجوز أن يكون
+                <term type="substance">الأدهان</term>
+                
+        <milestone unit="folio" n="F-23a" xml:id="F-23a-ar"/>
+                
+                <term type="principle">الحارّة</term>
+                <term type="principle">والبارد</term>
+                فاعلم ذلك
+            </p>
+            
+            <p n="22">
+                وإن كان منها شيء في ابتداء أمره بأن يكون المرض لم يتمكن سعط بأقل من
+                <term type="unit">حبّة</term>
+                وهي بوزن
+                
+        <milestone unit="folio" n="HM-22b" xml:id="HM-22b-ar"/>
+                
+                <term type="unit">الخردلة</term>
+                سواء
+            </p>
+            
+            <p n="23">
+                وإن كانت الأمراض في غير الرأس بمثل ما قدمنا في الأشياء
+                <term type="principle">الحرارة</term>
+                <term type="principle">بالبرودة</term>
+                <term type="principle">والباردة</term>
+                <term type="principle">بالحارة</term>
+                ولا يجوز في علة من العلل منه أكثر من
+                <term type="number">أربع</term>
+                <term type="unit">شعيرات</term>
+                وأقل
+                <app n="44">
+                   <lem wit="#HM">مما</lem>
+                   <rdg wit="#F">ما</rdg>
+                </app>
+                يكون في النقصان وزن 
+                خردله 
+                وإياك فيه الزيادة فأنها تغلب الأمراض إلا ما هو أشد منها من إضدادها
+            </p>
+            
+            <p n="24">
+                وأما
+                <term type="medical">داء الفيل</term>
+                <term type="medical">والدوالي</term>
+                <term type="medical">والنقرس</term>
+                <term type="medical">والجذبة</term>
+                <term type="medical">وأوجاع الظهر</term>
+                ومن جميع الأمراض
+                <term type="medical">وعرق النساء</term>
+                ووجع الركب والعنق
+                <term type="medical">والأورام خاصة</term>
+                <term type="medical">والحصاة</term>
+                في المثانة والانثيين والقضيب والكليتين والارحام والمقعدة
+                <term type="medical">وعسر البول</term>
+                والعلة
+                <app n="45">
+                   <lem wit="#HM">المسمى</lem>
+                    <rdg wit="#F">المسما</rdg>
+                </app>
+                <term type="medical">بالرحاء</term>
+                <term type="medical">والسرطان</term>
+                <term type="medical">والعارض</term>
+                في الأرحام والعلة العارضة في
+                <term type="medical">جميع العلل الأرحام</term>
+                <term type="medical">وجميع علل القضيب</term>
+                <term type="medical">وقطع شهوة</term>
+                <term type="medical">ونقصان الباه</term>
+                <term type="medical">والدواء العظيم</term>
+                <term type="medical">والقروح</term>
+                في داخل الذكر والمثانة
+                <app n="46">
+                   <lem wit="#F #HM">والكلاء</lem>
+                   <rdg>الكلى؟</rdg>
+                   <note type="editorial" xml:id="note-0004">It might mean kidney.</note>
+                </app>
+                <term type="medical">والاورام للصلب في المتانة</term>
+                <term type="medical">وقطع شهوة الجماع</term>
+                فأن هذا كله ينفع منه بوزن
+                <term type="unit">حبنين</term>
+                يسقي او يطعم إلا
+                <term type="medical">السرطان</term>
+                <term type="medical">وداء الفيل</term>
+                <term type="medical">والدوالي</term>
+                <term type="medical">والجذية</term>
+                فأنه يحتاج إلى
+                <term type="number">ربع</term>
+                <term type="unit">شعيرات</term>
+                وهو من يومه ينجح قد تكلمنا في
+                <bibl>
+                    خواص الإكسير
+                    <note type="biblio" xml:id="note-0005">The text of this title is not identified. One possibility is Süleymaniye Library, Istanbul, MS, Haci Mahmut 4224, fols. 20b-23b.</note>
+                </bibl>
+                ومنافعه ففيه
+                <app n="47">
+                   <lem wit="#HM">أربع</lem>
+                   <rdg wit="#F">اربعة</rdg>
+                </app>
+                الأف
+                
+        <milestone unit="folio" n="F-23b" xml:id="F-23b-ar"/>
+                
+                منفعة فيجب أن يتكلم عليها بتمامها
+            </p>
+            
+            <p n="25">
+                فمن ذلك 
+                <term type="medical">البول واحتباسه</term>
+                وأنواعه وإعراضه وجميع
+                <app n="48">
+                   <lem wit="#HM">أجناس</lem>
+                   <rdg wit="#F">
+                       أجناس
+                       <add place="above">انواع</add>
+                   </rdg>
+                </app>
+                <term type="medical">الإسهال</term>
+                وأعراضه وطبائعه وما يعرض فيه من كل داء
+                <term type="medical">وأوجاع الطحال</term>
+                <term type="medical">وعلل الكبد</term>
+                <term type="medical">والاستسقاء</term>
+                وجميع
+                <term type="medical">اليرقان</term>
+                وطبائعها وأنواعها وجميع
+                <term type="medical">أوجاع الكبد</term>
+                وما قاربه وساواه وجميع أنواع
+                <term type="medical">الفواق</term>
+                فأنه
+                <term type="medical">داء عظيم وجميع ضروب الحيضة</term>
+                وما يعرض منه ويزيد
+            </p>
+            
+            <p n="26">
+                فأمًا في أوائلها فلا ينبغي فمن يلتفت إليه ولا يعبأ به وجميع
+                <term type="medical">أوجاع المعدة</term>
+                فأنه
+                <term type="medical">داء عطل</term>
+                إدا تمكن الا ما كان منه يسيرًا قريبا فاعلم ذلك
+            </p>
+            
+            <p n="27">
+                وكذلك جميع
+                <term type="medical">علل القلب</term>
+                فأنه غير ملبث ولا مهمل ينبغي أن يبادر بدواه ولا يهمل ولا يغفل عنه فأنه قتال متلف ومنها الداء العظيم
+                <term type="medical">ذات البرق والسل</term>
+                <term type="medical">وذات الجنب</term>
+                وأمثالها
+            </p>
+            
+            <p n="28">
+                فينبغي أن يبادر بالدواء ولا يتوقف في أمورهما 
+                فأنه لا يهمل ذلك كما قدمنا
+                وأوصيناك في باب الأفعاء وحديتها فاعلم ذلك
+            </p>
+            
+            <p n="29">
+                وينفع أيضا
+                <term type="medical">لنفث الدم ونزفه</term>
+                وهو أعسر
+                <app n="49">
+                   <lem wit="#HM">الداء</lem>
+                   <rdg wit="#F">أداء</rdg>
+                </app>
+                الخاصة ولكنه يجبر المواضع جبرًا عظيما وليس في العالم دواء كله
+                <term type="principle">حار</term>
+                ولا
+                <term type="principle">بارد</term>
+                ولا
+                <term type="principle">رطب</term>
+                ولا
+                <term type="principle">يابس</term>
+                يبلغ إلى هذه الرتبة
+                
+        <milestone unit="folio" n="F-24a" xml:id="F-24a-ar"/>
+                
+                إلى هذا
+                <term type="substance">الإكسير الكامل</term>
+                الوزن وحده
+            </p>
+            
+            <p n="30">
+                وينفع أيضا من جميع
+                <term type="medical">السعال</term>
+                الكل ومن
+                <term type="medical">الخوانيق</term>
+                <term type="medical">وحلل اللسان</term>
+            </p>
+            
+            <p n="31">
+                وإذا سقي على الوضع
+                <term type="medical">
+                    ولسقوط
+                    <app n="50">
+                        <lem wit="#F">اللهاة</lem>
+                        <rdg wit="#HM">
+                            اللهاه
+                            <add place="above">الباه</add>
+                        </rdg>
+                    </app>                   
+                </term>
+                الذي
+                <app n="51">
+                   <lem wit="#F">لا</lem>
+                   <rdg wit="#HM">لما</rdg>
+                </app>
+                دواء له وله منفعة بالغة
+                <term type="medical">وأوجاع الأسنان</term>
+                بأسرها وجميع
+                <term type="medical">الروائح المنتنة في الفم</term>
+                وكل
+                <term type="medical">مفصل رديء</term>
+                الذي لا يقلعه شيء من العلاجات
+            </p>
+            
+            <p n="32">
+                وينفع من
+                <term type="medical">البواسير</term>
+                <term type="medical">والقروح العارضة في الأنف</term>
+            </p>
+            
+            <p n="33">
+                ويقطع
+                <term type="medical">الرعاف</term>
+                الذي
+                <app n="52">
+                   <lem wit="#F">لا</lem>
+                   <rdg wit="#HM">لما</rdg>
+                </app>
+                دواء له ويرد
+                <term type="medical">السمع الذاهب</term>
+                على طول السنين في يوم واحد وينفع
+                <term type="medical">أوجاع العين</term>
+                <term type="medical">جميعا من النمل والشعيرة والعرق والماء</term>
+                <term type="medical">وضف الناظرة</term>
+                المزمنة الغليظة
+                <term type="medical">والوسخ والصفرة التي كادت أن تعمى العين</term>
+                <term type="medical">والجرب</term>
+                <term type="medical">والبياض</term>
+                <term type="medical">والماء</term>
+                منفعة عظيمة سريعة
+            </p>
+            
+            <p n="34">
+                وأما 
+                أوجاع
+                <term type="medical">القروح</term>
+                <term type="medical">والدماميل</term>
+                وما
+                <app n="53">
+                   <lem wit="#HM">يجري</lem>
+                   <rdg wit="#F">يجرا</rdg>
+                </app>
+                مجراه فليس يحتاج إلى ذلك الا أنه متى طرح منه وزن
+                <term type="unit">
+                    <app n="54">
+                        <lem wit="#HM">شعيرة</lem>
+                        <rdg wit="#F">شعيره</rdg>
+                    </app>
+                </term>
+                في
+                <term type="unit">أوقية</term>
+                <term type="substance">ماء</term>
+                من
+                <term type="medicine">الأكتحال</term>
+                ينفعها منفعه عظيمة سريعة
+            </p>
+            
+            <p n="35">
+                وأما
+                <term type="medicine">أوجاع السبخ والتمدد</term>
+                <term type="medicine">والرعشة</term>
+                <term type="medicine">
+                    <app n="56">
+                        <lem wit="#HM">والحذر</lem>
+                        <rdg wit="#F">والخذر</rdg>
+                    </app>
+                </term>
+                <term type="medicine">واللقوة</term>
+                <term type="medicine">والفالج</term>
+                <term type="medicine">والعشق</term>
+                <term type="medicine">والقطرب</term>
+                الشديد فلذلك
+                <term type="number">أربع</term>
+                <term type="unit">شعيرات</term>
+                فأن هذه صعب حسنة 
+                وإياك أن تشك في ذلك فوحق سيدي ما رمزت في خواصه البتة
+            </p>
+            
+            <p n="36">
+                وينفع أيضا في السقي والتعليق فأنه يؤخذ من المقدار المتوسط ما بين القليل والكثير مثل دواء العارض من
+                <term type="principle">البلغم</term>
+                <term type="principle">والسوداء</term>
+                وإحراق
+                <term type="principle">الصفراء</term>
+                مثل 
+                <term type="medicine">الكابوس</term>
+                <term type="medicine">
+                    <app n="56">
+                        <lem wit="#HM">والماليخوليا</lem>
+                        <rdg wit="#F">والماخولياء</rdg>
+                    </app>
+                </term>
+                
+        <milestone unit="folio" n="F-24b" xml:id="F-24b-ar"/>
+                
+                <term type="medicine">والسرياح</term>
+                <term type="medicine">وداء الدواب</term>
+                <term type="medicine">والعرف</term>
+                <term type="medicine">وذهاب العقل</term>
+                <term type="medicine">والغشاء</term>
+                فأنه يبرئه بالسقي والتعليق وكذلك قد ينفع
+                <term type="medicine">الشقيقة</term>
+                المزمنة
+                <term type="medicine">والصداع</term>
+                وما
+                <app n="57">
+                   <lem wit="#HM">جرى</lem>
+                   <rdg wit="#F">جرا</rdg>
+                </app>
+                مجرا هذا العلل فأن هذا الدواء العزيز المركب
+                
+        <milestone unit="folio" n="HM-23a" xml:id="HM-23a-ar"/>
+                
+                الواحد الذي لا نظير له ينفع 
+                ما ذكرناه وكشفنا عن الستر المسيل عليه وأرجوا أن يوصلك
+                <app n="58">
+                   <lem wit="#F">الله إليه</lem>
+                   <rdg wit="#HM">الله</rdg>
+                </app>
+            </p>
+            
+            <p n="37">
+                قال
+                <persName>جابر</persName>
+                <addName type="honorific">عليه الرحمة</addName>
+                في عمل الطلسمات
+                <app n="59">
+                   <lem wit="#F">كلها ذا</lem>
+                   <rdg wit="#HM">كلها ذ</rdg>
+                </app>
+                الأصنام
+                يجب أن يكون
+                <term type="substance">نحاسًا أحمرا</term>
+                وحديد قد أذيب وألا بطلت وسرّ العلاجات أن يحتمى المريض الذي به العلة
+                <term type="number">عشرة</term>
+                أيام لا يأكل الا
+                <term type="substance">ماء الكرفس</term>
+                <term type="substance">وماء الخمص</term>
+                <term type="substance">بزيت</term>
+                <term type="substance">وسيرج</term>
+                ويدخل الحمام
+            </p>
+            
+            <p n="38">
+                وقال أيضا إذا
+                <term type="process">دق</term>
+                <term type="substance">اللؤلؤ</term>
+                الصغار منه في
+                <term type="instrument">هاون</term>
+                من
+                <term type="substance">زجاج</term>
+                ويدخل على
+                <term type="number">العشرة</term>
+                منه
+                <term type="number">واحد</term>
+                من
+                <term type="substance">القمر</term>
+                <term type="number">وأثنين</term>
+                من
+                <term type="substance">الشمس</term>
+                <term type="process">ويدفن</term>
+                حتى
+                <term type="process">ينحل</term>
+                <term type="process">ويحبب</term>
+                صغار وكبار
+                <term type="process">ويثقب</term>
+                <term type="process">ويجفف</term>
+                في الظل ويلقم الدجاجة
+                <term type="process">ويشوي</term>
+                ويخرج منها ذلك
+                الحب
+                يخرج
+                <term type="substance">لؤلؤ</term>
+                خير من المعدني
+            </p>
+            
+            <p n="39">
+                وأيضًا فصوص
+                <term type="substance">الياقوت الأبيض</term>
+                من
+                <term type="substance">إكسير الذهب</term>
+                وينفح عليه في
+                <term type="instrument">
+                    <app n="60">
+                        <lem wit="#F">صفيحة</lem>
+                        <rdg wit="#HM">صحيفة</rdg>
+                    </app>
+                    <term type="substance">ذهب</term>
+                </term>
+                حتى يحماو يخرج أحسن من المعدني
+            </p>
+            
+            <p n="40">
+                واعلم أيضًا أن تطلى فصوص
+                <term type="substance">
+                    الياقوت
+                    <term type="substance">الأبيض</term>
+                </term>
+                <term type="substance">بالمشتري</term>
+                <term type="substance">والشمس</term>
+                وتحمى في
+                <term type="instrument">
+                    صفيحة
+                    <term type="substance">الذهب</term>
+                </term>
+                يخرج
+                <term type="color">أصفرًا</term>
+            </p>
+            
+            <p n="41">
+                ويطلى في
+                <term type="substance">القمر</term>
+                <term type="substance">والمشتري</term>
+                يخرج أَسَمانْجوني
+            </p>
+            
+            <p n="42">
+                ويطلى
+                <term type="substance">بالشمس</term>
+                <term type="substance">والزحل</term>
+                
+        <milestone unit="folio" n="F-25a" xml:id="F-25a-ar"/>
+                
+                وقيل
+                <term type="substance">بالشمس</term>
+                <term type="substance">والقمر</term>
+                يخرج
+                <term type="substance">زبرحدًا أخضر</term>
+            </p>
+            
+            <p n="43">
+                ويدخل في صنم
+                <term type="substance">نحاس أحمر</term>
+                معدني في مدينة يهرب
+                السباع
+                من تلك الناحية كلها
+            </p>
+            
+            <p n="44">
+                وإن وضع فيه
+                <term type="substance">المشتري</term>
+                جلبت 
+                السباع 
+                والعقارب
+            </p>
+            
+            <p n="45">
+                وإن وضع فيها
+                <term type="substance">الشمس</term>
+                <term type="substance">والقمر</term>
+                دفع 
+                <orgName type="group">الأعداء</orgName>
+                من تلك المدينة ولا يصلوا إليها بسوء أبدًا
+            </p>
+            
+            <p n="46">
+                وإن وضع فيه
+                <term type="substance">المشتري</term>
+                <term type="substance">وزحل</term>
+                لم يتهيأ أن يمر به 
+                زانية 
+                الا كشف عنها وعرفها
+            </p>
+            
+            <p n="47">
+                وإن وضع فيه
+                <term type="substance">القمر</term>
+                <term type="substance">والمشتري</term>
+                <app n="61">
+                   <lem wit="#F">تعمى</lem>
+                   <rdg wit="#HM">تعم</rdg>
+                </app>
+                تلك المدينة حتى يعم خيرها ويفيض على الخلق وكذلك علمت في
+                <placeName>
+                    <app n="62">
+                        <lem wit="#F">الغوطة</lem>
+                        <rdg wit="#HM">الفوطة</rdg>
+                    </app>
+                </placeName>
+                فأهل
+                <placeName>دمشق</placeName>
+                يأكلون من خيرها إلى أن تقوم الساعة أو تهلك
+            </p>
+            
+            <p n="48">
+                وإن وضع فيه
+                <term type="substance">قمر</term>
+                <term type="substance">وزحل</term>
+                هربوا
+                <orgName type="group">اليهود</orgName>
+                من تلك المدينة وإذا دخلها
+                <orgName type="group">يهودي</orgName>
+                انفتح جوفه وانفجر ومات
+            </p>
+            
+            <p n="49">
+                وإن وضع
+                <term type="substance">زحل</term>
+                <term type="substance">وقمر</term>
+                <term type="substance">والمشتري</term>
+                في صنم
+                <term type="substance">حديد</term>
+                ودفن في
+                <orgName type="group">عسكر</orgName>
+                لم يصل إليه عدوًّا أبدًا
+            </p>
+            
+            <p n="50">
+                وإن جعل
+                <term type="substance">القمر</term>
+                <term type="substance">وزحل</term>
+                في صنم
+                <term type="substance">رصاص</term>
+                ودفن في
+                <orgName type="group">عسكر</orgName>
+                قوم غلبوا وينبغي أن ينصب هذه الاصنام على عمود رخام في وسط المدينة 
+                والموضع في خط الاستواء إذا صارت
+                <term type="astrology">الشمس</term>
+                في أول
+                <term type="astrology">الحمل</term>
+                <term type="astrology">والسرطان</term>
+                <term type="astrology">والجدي</term>
+                ولا يصلح بغير ذلك
+            </p>
+            
+            <p n="51">
+                وهكذا عمل
+                <persName>بطليموس</persName>
+                من الطلسمات في الأرض ولا ينبغي أن يحرك 
+                بعد ذلك أن ينقل فتبتل وتزول نسبتها ويأخذ الهواء
+                
+        <milestone unit="folio" n="F-25b" xml:id="F-25b-ar"/>
+                
+                ما فيه من تلك
+                <term type="principle">الأنفاس</term>
+                التي بها القصد لأنها
+                <term type="principle">أنفاس</term>
+                <term type="principle">روحانية</term>
+                تمازج
+                <term type="principle">الهواء</term>
+                في لحظة
+            </p>
+            
+            <p n="52">
+                صفة عمل
+                <term type="instrument">المرآة</term>
+                التي تخرق على فرسخ يوخذ
+                <term type="instrument">مرآة</term>
+                ولو وسع
+                <term type="unit">درهم</term>
+                أو أكثر على قدر ما تريد
+            </p>
+            
+            <p n="53">
+                وتسقي من
+                <term type="substance">الشمس</term>
+                <term type="substance">والقمر</term>
+                يعني
+                <app n="63">
+                   <lem wit="#HM">تزاوا</lem>
+                   <rdg wit="#F">تذافوا</rdg>
+                </app>
+                وتلطخ
+                <term type="instrument">المرآة</term>
+                وتحمي في النار وتلطخ أيضًا وتنصب في الشمس بإزاء 
+                <orgName type="group">العدو</orgName>
+                فأنهم الجميع يحرقوا ولو كانوا على
+                <term type="unit">فرسخ</term>
+                وكذلك عمل
+                <persName>
+                    <app n="64">
+                        <lem wit="#HM">بطليموس</lem>
+                        <rdg wit="#F">بطيموس</rdg>
+                    </app>
+                </persName>
+                في الحرب وإن طلى
+                <term type="substance">بالمشتري</term>
+                وهو
+                <term type="substance">زحل</term>
+                <term type="substance">والكبريت</term>
+                <term type="substance">ذهب</term>
+                اشتعلت
+                <app n="65">
+                   <lem wit="#F">نارًا ما</lem>
+                   <rdg wit="#HM">نارَامًّا</rdg>
+                </app>
+                تطفي أبدًا ما دامت في بيت لا يصل إليها الهواء
+            </p>
+            
+            <p n="54">
+                وكذلك عمل
+                <persName>بليناس</persName>
+                الحمام 
+                بحران بلا وقود وبهذا النار دخل
+                <placeName>الإسكندر</placeName>
+                في الظلمات
+            </p>
+            
+            <p n="55">
+                وإن سقى إنسان من
+                <term type="substance">المشتري</term>
+                <term type="substance">والشمس</term>
+                <term type="unit">مثقال</term>
+                مات لوقته وساعته وسمّ ساعة
+            </p>
+            
+            <p n="56">
+                وإن طلي إنسان من
+                <term type="substance">المشتري</term>
+                <term type="substance">والشمس</term>
+                ودخل بين السباع خضعت له حتى تركبها ويمسح يده ويأخذ
+                <app n="66">
+                   <lem wit="#F">الأفعاء</lem>
+                   <rdg wit="#HM">الافعى</rdg>
+                </app>
+                والتنانين والعقارب ولا يضره شيء والمبطون الذي
+                <app n="67">
+                   <lem>قد أعياء</lem>
+                   <rdg wit="#F">قذاعيا</rdg>
+                   <rdg wit="#HM">قداعيأ</rdg>
+                </app>
+                <orgName type="group">الأطباء</orgName>
+                علاجه يسقي من داخل والذي ضرب السلّ ليسقي أسبوعًا من
+                <term type="substance">القمر</term>
+                ويطعم لحم السمك فيطفئ عنه الصفراء
+                <app n="68">
+                   <lem>ويبرى</lem>
+                   <rdg wit="#F">يبرا</rdg>
+                   <rdg wit="#HM">يبرأ</rdg>
+                </app>
+            </p>
+            
+            <p n="57">
+                وإن سقى إنسان من
+                <term type="substance">القمر</term>
+                فلا يصيبه عارض
+                <term type="substance">السم</term>
+                ولا
+                <app n="69">
+                   <lem wit="#HM">ينفذ</lem>
+                   <rdg wit="#F">ينفد</rdg>
+                </app>
+                فيه سحر وإن شمموا الأقفال من
+                <term type="substance">الشمس</term>
+                ينفتح ويقول هذا باسم 
+                <persName>موسى</persName>
+            </p>
+            
+            <p n="58">
+                وإن طلي إنسان
+                <term type="substance">بالشمس</term>
+                ويدخل النار فلا يحترق ويسعط المجنون من
+                <term type="substance">القمر</term>
+                <app n="70">
+                   <lem wit="#HM">فيفيق</lem>
+                   <rdg wit="#F">فٮفيق</rdg>
+                </app>
+                ويطلى الميت من
+                <term type="substance">الشمس</term>
+                <term type="substance">والقمر</term>
+                <app n="71">
+                   <lem wit="#F">فيسقي</lem>
+                   <rdg wit="#HM">فيبقي</rdg>
+                </app>
+                في قبره أبدًا لا يتغير
+            </p>
+            
+            <p n="59">
+                وإن يطلي 
+                بالمشتري على الشيب
+                <term type="color">يسود</term>
+                ولا
+                <term type="color">يبيض</term>
+                إلى سنة
+            </p>
+            
+            <p n="60">
+                <term type="instrument">والمرآة</term>
+                لا تحبل وتصبغ
+                <term type="substance">القمر</term>
+                وجمل الخاتم
+                
+        <milestone unit="folio" n="F-26a" xml:id="F-26a-ar"/>
+                
+                ويلبس يومًا فلا يلبسه أحد الا إهابه كل من ينظره ويسجد له ويكون هيوبا عند
+                <orgName type="group">الملوك</orgName>
+                وإن وضع إنسان تحت فص خاتم
+                <term type="unit">حبّة</term>
+                من
+                <term type="substance">
+                    إكسير
+                    <term type="substance">الذهب</term>
+                </term>
+                
+        <milestone unit="folio" n="HM-23b" xml:id="HM-23b-ar"/>
+                
+                ولبس كان هيوبا عند
+                <orgName type="group">الملوك</orgName>
+                وقضيت له كل حاجة يرومها ويوضع منه تحت
+                <app n="72">
+                   <lem>تيجان</lem>
+                    <rdg wit="#F">بيجان</rdg>
+                    <rdg wit="#HM">
+                        بيجان
+                        <add place="above">تيجان</add>
+                    </rdg>
+                </app>
+                <orgName type="group">الملوك</orgName>
+                فيطيعهم
+                <orgName type="group">كل العالم</orgName>
+                ويمسح الأرض
+                <term type="substance">بالمشتري</term>
+                <term type="substance">والشمس</term>
+                فطوى له الطريق ويذهب في ساعة مسيرة سنة وإن
+                <term type="process">اكتحل</term>
+                من
+                <term type="substance">
+                    <app n="73">
+                        <lem wit="#F">زحل</lem>
+                        <rdg wit="#HM">دخل</rdg>
+                    </app>
+                </term>
+                كما يخرج من النار من في عينه
+                <app n="74">
+                   <lem wit="#F">ماء يشفه</lem>
+                    <rdg wit="#HM">مأليشضه</rdg>
+                </app>
+                من ساعته
+            </p>
+            
+            <p n="61">
+                ويقطر منه في
+                <term type="medicine">أذن الأصم</term>
+                من
+                <term type="substance">الشمس</term>
+                يسمع من ساعته
+            </p>
+            
+            <p n="62">
+                ويمسح على
+                <term type="medicine">
+                    <app n="75">
+                        <lem wit="#HM">الجذام</lem>
+                        <rdg wit="#F">الجدام</rdg>
+                    </app>
+                </term>
+                <term type="substance">بالشمس</term>
+                <term type="substance">والقمر</term>
+                يوقفه ولا يزيد أبدا
+            </p>
+            
+            <p n="63">
+                ويمسح على
+                <term type="medicine">المقعد</term>
+                <term type="substance">بالشمس</term>
+                <term type="substance">والقمر</term>
+                فيقوم بعد أيام
+            </p>
+            
+            <p n="64">
+                ويطلى منه
+                <term type="medicine">بالناسور</term>
+                <term type="medicine">والخنازير</term>
+                فيذهبهم
+                <app n="76">
+                   <lem wit="#HM">فيذهبهم</lem>
+                   <rdg wit="#F">يدهبهم</rdg>
+                </app>
+                وينفخ في أنف من يرغف فينقطع دمه
+            </p>
+            
+            <p n="65">
+                ويمسح من
+                <term type="substance">القمر</term>
+                على الفم الذي لا
+                <app n="77">
+                   <lem wit="#HM">دواء</lem>
+                   <rdg wit="#F">دوا</rdg>
+                </app>
+                له فيذهب بعد يومه وبهذا عالجت كثيرًا
+            </p>
+            
+            <p n="66">
+                ويوضع من
+                <term type="substance">القمر</term>
+                في عامود
+                <term type="substance">حديد</term>
+                ويحط في الماء فيجتمع إليه جميع السمك 
+                حتى يؤخذ باليد ويوضع من
+                <term type="substance">الشمس</term>
+                وقيل من
+                <term type="substance">المشتري</term>
+                في
+                <app n="78">
+                   <lem wit="#HM">قدح ماء</lem>
+                    <rdg wit="#F">قدماء</rdg>
+                </app>
+                من السحر
+                <app n="79">
+                   <lem wit="#HM">فيذهب</lem>
+                   <rdg wit="#F">فيدهب</rdg>
+                </app>
+                بالبراغيث والزنابير وقد علمت بما وصفته يا بني
+                <app n="80">
+                   <lem wit="#F">وجريته</lem>
+                   <rdg wit="#HM">جرّبته</rdg>
+                </app>
+                فصح ولم يبطل عليه منه شيء الا المقعد بعد مرات كثيرة 
+                وفي هذا الحجر أكثر مما وصفت لك فكن حافظا للعلوم
+                <app n="81">
+                   <lem wit="#HM">الشريفة</lem>
+                   <rdg wit="#F">الشريف</rdg>
+                </app>
+                الجليلة وأشكر الله تعالى بمنه وكرمه
+                
+        <milestone unit="folio" n="F-26a-end" xml:id="F-26a-end-ar"/>
+                
+            </p>
+            
+            <p n="67">
+                <term type="Islamic">
+                    الحمد لله وحده والصلاة على من لا نبي بعده
+                </term>
+                
+        <milestone unit="folio" n="HM-23b-end" xml:id="HM-23b-end-ar"/>
+
+            </p>
+        </div>
+    </body>
+</text>
+</TEI>
