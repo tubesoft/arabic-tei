@@ -16,7 +16,7 @@ export default defineConfig({
   base: '/arabic-tei/',
   build: {
     outDir: 'docs',
-    // emptyOutDir: true,
+    emptyOutDir: true,
   },
   plugins: [
     VueRouter(),
