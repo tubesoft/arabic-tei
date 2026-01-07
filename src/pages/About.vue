@@ -81,7 +81,7 @@
                 Dissertation Title: <a href="https://www.proquest.com/docview/3207573322?sourcetype=Dissertations%20&%20Theses" target="_blank">\"Alchemy in Medieval Islam and Abū Bakr al-Rāzī\"</a><br/><br/>
                 M.A. (Institute of Islamic Studies, McGill University), 2018<br/>
                 Thesis Title: <a href="https://escholarship.mcgill.ca/concern/theses/rx913s30p?locale=en" target="_blank">\"Avicennian Natural Philosophy and the Alchemical Theory of al-Ṭughrāʾī in <i>Ḥaqāʾiq al-istishhād</i>\"</a><br/><br/>
-                M.A. (Graduate School of Asian and African Area Studies, Kyoyo University), 2011<br/><br/>
+                M.A. (Graduate School of Asian and African Area Studies, Kyoto University), 2011<br/><br/>
                 B.A. (School of International Liberal Studies, Waseda University), 2009<br/><br/>
               </p>
               `,
